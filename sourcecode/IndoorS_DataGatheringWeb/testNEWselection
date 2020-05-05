@@ -1,0 +1,48 @@
+dataRef.on('child_added', snapshot => {
+            if (this.rawData.length <= 0) {
+                var singleObj = [];
+                singleObj[0] = snapshot.val().mac;
+                singleObj[1] = snapshot.val().node;
+                singleObj[2] = snapshot.val().rssi;
+                singleObj[3] = snapshot.val().time;
+                this.rawData.push(singleObj);
+                //console.log("count " + this.rawData.length + " " + snapshot.val().mac)
+            } else {
+                Boolean: foundSameData = false;
+                Boolean: compareThisData = false;
+
+                for (var j = 0; j < this.rawData.length; j++) {
+                    if (this.rawData[j][0] == snapshot.val().mac && this.rawData[j][1] == snapshot.val().node) {
+                        //console.log("Found " + snapshot.val().mac + " in NODE" + snapshot.val().node + " is already existed")
+                        foundSameData = true;
+                        this.saveRSSIforBusted = j;
+                        this.saveTIMEforBusted = snapshot.val().time;
+                        //store data
+                        if (this.selectedArray[0] == this.rawData[j][2]) {
+                            this.selectedArray.push(snapshot.val().rssi)
+                        } else {
+                            this.selectedArray.push(this.rawData[j][2])
+                            this.selectedArray.push(snapshot.val().rssi)
+                        }
+                        break;
+                    }
+                }
+                if (!foundSameData) {
+                    if (this.selectedArray.length > 0) {
+                        //console.log('busted!')
+                        //console.log(this.selectedArray)
+                        yut = this.median() //SELECT SORTING ALGORITHM
+                        //console.log("mean = " + yut)
+                        this.rawData[this.saveRSSIforBusted][2] = yut;
+                        this.rawData[this.saveRSSIforBusted][3] = this.saveTIMEforBusted;
+                    }
+                    singleObj[0] = snapshot.val().mac;
+                    singleObj[1] = snapshot.val().node;
+                    singleObj[2] = snapshot.val().rssi;
+                    singleObj[3] = snapshot.val().time;
+                    this.rawData.push(singleObj);
+                    this.selectedArray.splice(0, this.selectedArray.length)
+
+                }
+            }
+        });

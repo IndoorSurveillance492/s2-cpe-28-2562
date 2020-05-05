@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html lang="en" style="height:100%;">
+
+<head>
+    <title>Median 60</title>
+    <meta charset="utf-8">
+    <meta name="veiwpoint" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="script/leaflet/leaflet.css">
+    <script src="script/leaflet/leaflet.js"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+        integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
+    </script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous">
+    </script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous">
+    </script>
+
+
+    <style>
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        /* Style the header */
+        header {
+            background-color: #666;
+            padding: 30px;
+            text-align: center;
+            font-size: 35px;
+            color: white;
+        }
+
+        /* Container for flexboxes */
+        section {
+            display: -webkit-flex;
+            /* display: flex; */
+        }
+
+        /* Style the navigation menu */
+        nav {
+            -webkit-flex: 1;
+            -ms-flex: 1;
+            flex: 1;
+            background: #ccc;
+            padding: 100px;
+        }
+
+        /* Style the list inside the menu */
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        /* Style the content */
+        article {
+            -webkit-flex: 3;
+            -ms-flex: 3;
+            flex: 3;
+            background-color: #f1f1f1;
+            padding: 10px;
+        }
+
+        div.ex1 {
+            width: 500px;
+            height: 527px;
+            overflow: scroll;
+        }
+
+        div.ex2 {
+            width: 500px;
+            border: 10px solid #f1f1f1;
+        }
+
+        /* Style the footer */
+        footer {
+            background-color: #777;
+            padding: 10px;
+            text-align: center;
+            color: white;
+        }
+
+        /* Responsive layout - makes the menu and the content (inside the section) sit on top of each other instead of next to each other */
+        @media (max-width: 600px) {
+            section {
+                -webkit-flex-direction: column;
+                flex-direction: column;
+            }
+        }
+    </style>
+
+</head>
+
+<body style="height:100%; width: 100%; margin: 0;">
+
+    <div id="map" style="height:100%; width:100%; background:#f1f1f1;"></div>
+
+
+    <script src="https://www.gstatic.com/firebasejs/7.8.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/3.1.0/firebase.js"></script>
+    <script>
+        // Your web app's Firebase configuration
+        rawData = []
+        completeDevice = []
+        deleteMarker = []
+        //scale = 2.694;
+        scale = 25.55; //51.1 equals 2 meters
+        var nodes = [
+            //Lat(Y)  Lng(X)
+            [0, 25.0, -51.3],
+            [1, 25.0, 25.3],
+            [2, -53.7, -13]
+        ]
+        var realLocation = [
+            [-12.8, -12.8]
+        ]
+        startTimeFilter = 0
+        lastMinFilter = 0
+        rssiFilter = -75
+        selectedArray = []
+        saveRSSIforBusted: 0
+        saveTIMEforBusted: 0
+        resultTest = []
+        count = 0
+        textTest = 'yut'
+        var firebaseConfig = {
+            apiKey: "AIzaSyCjqpdq22D-k4ydUu33YXS4MTrf7aoyKeA",
+            authDomain: "test3-2c05d.firebaseapp.com",
+            databaseURL: "https://test3-2c05d.firebaseio.com",
+            projectId: "test3-2c05d",
+            storageBucket: "test3-2c05d.appspot.com",
+            messagingSenderId: "154600691029",
+            appId: "1:154600691029:web:f1fd4b8380cea8ab2bcbdc",
+            measurementId: "G-TMHGY5XPXZ"
+        };
+        // var firebaseConfig = {
+        //     apiKey: "AIzaSyAHoZs2GL1d3rMElW2J_M44rWgtowgv_gk",
+        //     authDomain: "test-9e4c4.firebaseapp.com",
+        //     databaseURL: "https://test-9e4c4.firebaseio.com",
+        //     projectId: "test-9e4c4",
+        //     storageBucket: "test-9e4c4.appspot.com",
+        //     messagingSenderId: "799037550140",
+        //     appId: "1:799037550140:web:48548c67ffa9d1218b1d39",
+        //     measurementId: "G-FTZGGJTJRN"
+        // };
+
+        // var firebaseConfig = {
+        //     apiKey: "AIzaSyATP9W7s-R9Pz7IcGmD7PTcwapz47FO5HM",
+        //     authDomain: "isis-b8c06.firebaseapp.com",
+        //     databaseURL: "https://isis-b8c06.firebaseio.com",
+        //     projectId: "isis-b8c06",
+        //     storageBucket: "isis-b8c06.appspot.com",
+        //     messagingSenderId: "58206310530",
+        //     appId: "1:58206310530:web:08f67604b2a0a5f445249b",
+        //     measurementId: "G-57TNQYFVNK"
+        // };
+        // Initialize Firebase
+        firebase.initializeApp(firebaseConfig);
+
+
+
+
+        this.startTimeFilter = Math.round(Date.now() / 1000) - 60;
+        const database = firebase.database();
+        const dataRef = database.ref('devices');
+        //HERE  
+        dataRef.orderByChild('time').startAt(this.startTimeFilter).on('child_added', snapshot => {
+
+            if (snapshot.val().rssi > this.rssiFilter) {
+
+
+
+                if (this.rawData.length <= 0) {
+
+                    var singleObj = [];
+                    singleObj[0] = snapshot.val().mac;
+                    singleObj[1] = snapshot.val().node;
+                    singleObj[2] = snapshot.val().rssi;
+                    singleObj[3] = snapshot.val().time;
+                    this.rawData.push(singleObj);
+                    //console.log("count " + this.rawData.length + " " + snapshot.val().mac)
+                } else {
+                    Boolean: foundSameData = false;
+                    Boolean: compareThisData = false;
+                    foundIndex = 0;
+                    for (var j = 0; j < this.rawData.length; j++) {
+                        if (this.rawData[j][0] == snapshot.val().mac && this.rawData[j][1] == snapshot.val()
+                            .node) {
+                            //console.log("Found " + snapshot.val().mac + " in NODE" + snapshot.val().node + " is already existed")
+                            foundSameData = true;
+                            this.saveRSSIforBusted = j;
+                            foundIndex = j
+                            this.saveTIMEforBusted = snapshot.val().time;
+                            //store data
+
+                            //this.selectedArray.push(snapshot.val().rssi)
+                            // if (this.selectedArray[0] == this.rawData[j][2]) {
+                            //     this.selectedArray.push(snapshot.val().rssi)
+                            // } else {
+                            //     this.selectedArray.push(this.rawData[j][2])
+                            //     this.selectedArray.push(snapshot.val().rssi)
+                            // }
+
+                            // if(this.selectedArray.length = 0){
+                            //     this.selectedArray.push(this.rawData[j][2])
+                            //     this.selectedArray.push(snapshot.val().rssi)
+                            // }else{
+                            //     this.selectedArray.push(snapshot.val().rssi)
+                            // }
+
+                            if (this.selectedArray.length <= 0) {
+                                this.selectedArray.push(this.rawData[j][2])
+                                this.selectedArray.push(snapshot.val().rssi)
+
+                            } else {
+                                this.selectedArray.push(snapshot.val().rssi)
+                            }
+
+                            if (this.rawData[foundIndex][3] < snapshot.val().time) {
+                                this.rawData[foundIndex][2] = snapshot.val().rssi;
+                                this.rawData[foundIndex][3] = snapshot.val().time;
+
+                                //in same splint ->> replace with less RSSI
+                            } else if (this.rawData[foundIndex][3] = snapshot.val().time) {
+                                // less RSSI
+                                if (this.selectedArray.length > 0) {
+                                    //console.log('busted!')
+                                    //console.log(this.selectedArray)
+                                    yut = this.max() //Choose HERE!
+                                    //console.log("value = " + yut)
+                                    this.rawData[this.saveRSSIforBusted][2] = yut;
+                                    this.rawData[this.saveRSSIforBusted][3] = this.saveTIMEforBusted;
+
+                                }
+                            }
+
+                            break;
+                        }
+                        this.selectedArray.splice(0, this.selectedArray.length)
+                    }
+
+                    if (!foundSameData) {
+                        var singleObj = [];
+                        singleObj[0] = snapshot.val().mac;
+                        singleObj[1] = snapshot.val().node;
+                        singleObj[2] = snapshot.val().rssi;
+                        singleObj[3] = snapshot.val().time;
+                        this.rawData.push(singleObj);
+                        //console.log("count " + this.rawData.length + " " + snapshot.val().mac)
+                    }
+                }
+            }
+        });
+
+        
+        
+        setInterval(() => {
+            this.lastMinFilter = Math.round(Date.now() / 1000) - 60;
+        }, 1000);
+
+        setInterval(() => {
+            for (i = 0; i < this.rawData.length; i++) {
+                if (this.rawData[i][3] <= this.lastMinFilter) {
+                    this.rawData.splice(i, 1);
+                }
+            }
+            //console.log(this.rawData.length)
+            this.completeDevice.splice(0, this.completeDevice.length)
+            this.rawData.sort();
+            this.Draft();
+
+
+            //console.log(this.completeDevice);
+            //console.log(this.completeDevice);
+            //document.getElementById("demo").innerHTML = this.completeDevice;
+
+        }, 500);
+
+        calculateRSSI = function () {
+            measuredPower = -52 //RSSI per 1 meter
+            nRange = 2.6 //noise from 2 to 4
+            for (let i = 0; i < this.completeDevice.length; i++) {
+                let d = Math.pow(10, (measuredPower - this.completeDevice[i][2]) / (10 * nRange));
+                //let d = ( this.completeDevice[i][2] + 1.82 - measuredPower )/1.77
+                //let d = Math.pow(10,     (this.completeDevice[i][2] + 7.36 - measuredPower)/(2.6*10*nRange) );
+                this.completeDevice[i][4] = d
+            }
+        }
+
+        calculateMSE = function (xr, yr) {
+            let a = Math.pow(realLocation[0][1] - xr, 2);
+            let b = Math.pow(realLocation[0][0] - yr, 2);
+            var crsDistance = Math.sqrt(a + b);
+            var meterDistance = crsDistance / scale;
+            console.log("crsDistance: " + crsDistance)
+            console.log("meterDistance: " + meterDistance)
+            console.log("----")
+        }
+
+        // function getXR(r1, r2, x1, x2) {
+
+        //     // test =Math.pow(r1, 2) - Math.pow(r2, 2) - Math.pow(x1, 2) + Math.pow(x2, 2)
+        //     // test2 =(2 * (x2 - x1))
+        //     let xr = (Math.pow(r1, 2) - Math.pow(r2, 2) - Math.pow(x1, 2) + Math.pow(x2, 2)) / (2 * (x2 - x1));
+        //     //console.log(test +' ' +test2 +' ' +x1 +' ' +x2)
+        //     return xr;
+        // }
+
+        // function getYR(r2, r3, y2, y3) {
+        //     let yr = (Math.pow(r2, 2) - Math.pow(r3, 2) - Math.pow(y2, 2) + Math.pow(y3, 2)) / (2 * (y3 - y2));
+        //     return yr;
+        // }
+
+        Draft = function () {
+
+            Boolean: foundMatch = false;
+            Boolean: alreadyExisted = false;
+
+            for (i = 0; i < this.rawData.length - 2; i++) {
+                if (this.rawData[i][0] == this.rawData[i + 1][0] && this.rawData[i + 1][0] == this.rawData[i + 2][
+                        0
+                    ]) {
+                    for (j = 0; j < this.completeDevice.length; j++) {
+                        if (this.rawData[i][0] == this.completeDevice[j][0]) {
+                            alreadyExisted = true;
+                            this.completeDevice.splice(j, 3)
+                            //console.log("delete")
+
+                            this.completeDevice.push(this.rawData[i])
+                            this.completeDevice.push(this.rawData[i + 1])
+                            this.completeDevice.push(this.rawData[i + 2])
+                            //console.log("alreadyExisted Pushhhh")
+                            j = j + 2;
+                        }
+                    }
+                    if (!alreadyExisted) {
+                        this.completeDevice.push(this.rawData[i])
+                        this.completeDevice.push(this.rawData[i + 1])
+                        this.completeDevice.push(this.rawData[i + 2])
+                        //console.log("New Pushhhh")
+                        i = i + 2;
+                    }
+                }
+            }
+
+        }
+
+        countData = function () {
+            this.count += 1;
+            console.log("count = " + count)
+        }
+
+        max = function () {
+            var mins = this.selectedArray[0]
+            for (var i = 0; i < this.selectedArray.length; i++) {
+                if (this.selectedArray[i] < this.selectedArray[i + 1]) {
+                    mins = this.selectedArray[i + 1]
+                }
+            }
+            return mins
+        }
+        mean = function () {
+            var total = 0
+
+            for (var i = 0; i < this.selectedArray.length; i += 1) {
+                total += this.selectedArray[i];
+            }
+            return total / this.selectedArray.length;
+        }
+        median = function () {
+            var median = 0
+            var numsLen = this.selectedArray.length;
+            this.selectedArray.sort();
+
+            if (
+                numsLen % 2 === 0 // is even
+            ) {
+                // average of two middle numbers
+                median = (this.selectedArray[numsLen / 2 - 1] + this.selectedArray[numsLen / 2]) / 2;
+            } else { // is odd
+                // middle number only
+                median = this.selectedArray[(numsLen - 1) / 2];
+            }
+            return median;
+        }
+
+
+
+
+
+        //declare map object
+        var map = L.map('map').setView([0, 0], 0);
+        L.tileLayer('1x1grid/{z}/{x}/{y}.png', {
+            minZoom: 1,
+            maxZoom: 3,
+            continuousWorld: false,
+            noWrap: true,
+            crs: L.CRS.Simple,
+        }).addTo(map);
+
+        //marker
+        var realDeviceMarker = L.icon({
+            iconUrl: 'marker/device.png',
+            iconSize: [25, 41],
+            iconAnchor: [12, 41],
+            popupAnchor: [-3, -41],
+            shadowUrl: 'marker/node-shadow.png',
+            shadowSize: [41, 41],
+            shadowAnchor: [12, 41]
+        });
+        var deviceMarker = L.icon({
+            iconUrl: 'marker/PNGfew.png',
+            iconSize: [53, 53],
+            iconAnchor: [25, 47],
+            popupAnchor: [1, -40],
+            shadowUrl: 'marker/node-shadow.png',
+            shadowSize: [41, 41],
+            shadowAnchor: [12, 41]
+        });
+        var aMarker = L.icon({
+            iconUrl: 'marker/a-marker.PNG',
+            iconSize: [53, 41],
+            iconAnchor: [25, 41],
+            popupAnchor: [-3, -80],
+            shadowUrl: 'marker/node-shadow.png',
+            shadowSize: [41, 41],
+            shadowAnchor: [12, 41]
+        });
+        var node1_icon = L.icon({
+            iconUrl: 'marker/PNGnode.png',
+            iconSize: [53, 53],
+            iconAnchor: [25, 47],
+            popupAnchor: [1, -40],
+            shadowUrl: 'marker/node-shadow.png',
+            shadowSize: [41, 41],
+            shadowAnchor: [12, 41]
+        });
+        var node2_icon = L.icon({
+            iconUrl: 'marker/PNGnode.png',
+            iconSize: [53, 53],
+            iconAnchor: [25, 47],
+            popupAnchor: [1, -40],
+            shadowUrl: 'marker/node-shadow.png',
+            shadowSize: [41, 41],
+            shadowAnchor: [12, 41]
+        });
+        // var node2_icon = L.icon({
+        //     iconUrl: 'marker/node2.png',
+        //     iconSize: [25, 41],
+        //     iconAnchor: [12, 41],
+        //     popupAnchor: [-3, -80],
+        //     shadowUrl: 'marker/node-shadow.png',
+        //     shadowSize: [41, 41],
+        //     shadowAnchor: [12, 41]
+        // });
+        var node3_icon = L.icon({
+            iconUrl: 'marker/PNGnode.png',
+            iconSize: [53, 53],
+            iconAnchor: [25, 47],
+            popupAnchor: [1, -40],
+            shadowUrl: 'marker/node-shadow.png',
+            shadowSize: [41, 41],
+            shadowAnchor: [12, 41]
+        });
+        // var node3_icon = L.icon({
+        //     iconUrl: 'marker/node3.png',
+        //     iconSize: [25, 41],
+        //     iconAnchor: [12, 41],
+        //     popupAnchor: [-3, -80],
+        //     shadowUrl: 'marker/node-shadow.png',
+        //     shadowSize: [41, 41],
+        //     shadowAnchor: [12, 41]
+        // });
+
+
+        // var marker0 = L.marker([0, 0], {
+        //     draggable: true
+        // }).addTo(map);
+        //marker0.bindPopup('<b>X:0,Y:0</b>');
+
+        var node1 = L.marker([nodes[0][1], nodes[0][2]], {
+            draggable: true,
+            icon: node1_icon
+
+        }).addTo(map);
+        node1.bindPopup("<center><b>NODE1</b></center><br>" + nodes[0][1] + " " + nodes[0][2]);
+        //update a NODE1's new latLng and bind it to a popup
+        node1.on('dragend', function () {
+            nodes[0][1] = node1.getLatLng().lat
+            nodes[0][2] = node1.getLatLng().lng
+            node1.bindPopup("<center><b>NODE1</b></center><br>" + nodes[0][1] + " " + nodes[0][2]);
+            // console.log("NODE1 " + nodes[0][1] + " " + nodes[0][2])
+        })
+
+        var node2 = L.marker([nodes[1][1], nodes[1][2]], {
+            draggable: true,
+            icon: node2_icon
+        }).addTo(map);
+        node2.bindPopup("<center><b>NODE2</b></center><br>" + nodes[1][1] + " " + nodes[1][2]);
+        node2.on('dragend', function () {
+            nodes[1][1] = node2.getLatLng().lat
+            nodes[1][2] = node2.getLatLng().lng
+            node2.bindPopup("<center><b>NODE2</b></center><br>" + nodes[1][1] + " " + nodes[1][2]);
+            // console.log("NODE2 " + nodes[1][1] + " " + nodes[1][2])
+        })
+
+        var node3 = L.marker([nodes[2][1], nodes[2][2]], {
+            draggable: true,
+            icon: node3_icon
+        }).addTo(map);
+        node3.bindPopup("<center><b>NODE3</b></center><br>" + nodes[2][1] + " " + nodes[2][2]);
+        node3.on('dragend', function () {
+            nodes[2][1] = node3.getLatLng().lat
+            nodes[2][2] = node3.getLatLng().lng
+            node3.bindPopup("<center><b>NODE3</b></center><br>" + nodes[2][1] + " " + nodes[2][2]);
+            // console.log("NODE3 " + nodes[2][1] + " " + nodes[2][2])
+        })
+        // node3.on('dragend', function (e) {
+        //     node3.getPopup().setContent('NODE3 ' + node3.getLatLng());
+        // })
+
+        var realDevice = L.marker([realLocation[0][0], realLocation[0][1]], {
+            draggable: true,
+            icon: realDeviceMarker
+        }).addTo(map);
+        realDevice.bindPopup("<center><b>NODE3</b></center><br>" + realLocation[0][0] + " " + realLocation[0][1]);
+        realDevice.on('dragend', function () {
+            realLocation[0][0] = realDevice.getLatLng().lat
+            realLocation[0][1] = realDevice.getLatLng().lng
+            realDevice.bindPopup("<center><b>NODE3</b></center><br>" + realLocation[0][0] + " " + realLocation[
+                0][1]);
+            // console.log("NODE3 " + nodes[2][1] + " " + nodes[2][2])
+        })
+
+        //test
+
+        //update CompleteDevice
+        setInterval(() => {
+
+            this.calculateRSSI();
+
+            if (deleteMarker.length == 0) {
+                foundDevice = false;
+                for (i = 0; i < this.completeDevice.length; i++) {
+                    var aa = 2 * (nodes[1][2] - nodes[0][2]);
+                    var bb = 2 * (nodes[1][1] - nodes[0][1]);
+                    var cc = Math.pow(completeDevice[i][4] * scale, 2) - Math.pow(completeDevice[i + 1][4] *
+                        scale, 2) - Math.pow(nodes[0][2], 2) + Math.pow(nodes[1][2], 2) - Math.pow(nodes[0][
+                        1
+                    ], 2) + Math.pow(nodes[1][1], 2)
+                    var dd = 2 * (nodes[2][2] - nodes[1][2]);
+                    var ee = 2 * (nodes[2][1] - nodes[1][1]);
+                    var ff = Math.pow(completeDevice[i + 1][4] * scale, 2) - Math.pow(completeDevice[i + 2][4] *
+                        scale, 2) - Math.pow(nodes[1][2], 2) + Math.pow(nodes[2][2], 2) - Math.pow(nodes[1][
+                        1
+                    ], 2) + Math.pow(nodes[2][1], 2)
+
+
+                    let yr = (ff - (bb * cc / aa)) / (ee - (Math.pow(bb, 2) / aa));
+                    let xr = (cc - (bb * yr)) / aa;
+                    if (this.completeDevice[i][0] == '08:c5:e1:02:43:ce') {
+                        mark = L.marker([yr, xr], {
+                            icon: deviceMarker
+                            //icon: aMarker
+                        }).addTo(map);
+                        foundDevice = true;
+                        this.countData();
+                        console.log("plotXY: [" + yr + "," + xr + "]");
+                        this.calculateMSE(xr, yr);
+                    } else {
+                        mark = L.marker([yr, xr]).addTo(map);
+
+                    }
+                    mark.bindPopup(yr + " " + xr + '<br><b>' + this.completeDevice[i][2] + ' ' +
+                        this.completeDevice[i + 1][2] + ' ' + this.completeDevice[i + 2][2] + '</b>')
+                    this.deleteMarker.push(mark)
+                    i = i + 2;
+                    //console.log(xr +' ' +yr)
+
+
+                }
+                if (!foundDevice) {
+                    this.countData();
+                    console.log("No subject device")
+                }
+            } else {
+                //console.log(this.deleteMarker.length)
+                for (i = 0; i < this.deleteMarker.length; i++) {
+                    map.removeLayer(this.deleteMarker[i]);
+                    //console.log('delete')
+                }
+                foundDevice = false;
+                for (i = 0; i < this.completeDevice.length; i++) {
+                    var aa = 2 * (nodes[1][2] - nodes[0][2]);
+                    var bb = 2 * (nodes[1][1] - nodes[0][1]);
+                    var cc = Math.pow(completeDevice[i][4] * scale, 2) - Math.pow(completeDevice[i + 1][4] *
+                        scale, 2) - Math.pow(nodes[0][2], 2) + Math.pow(nodes[1][2], 2) - Math.pow(nodes[0][
+                        1
+                    ], 2) + Math.pow(nodes[1][1], 2)
+                    var dd = 2 * (nodes[2][2] - nodes[1][2]);
+                    var ee = 2 * (nodes[2][1] - nodes[1][1]);
+                    var ff = Math.pow(completeDevice[i + 1][4] * scale, 2) - Math.pow(completeDevice[i + 2][4] *
+                        scale, 2) - Math.pow(nodes[1][2], 2) + Math.pow(nodes[2][2], 2) - Math.pow(nodes[1][
+                        1
+                    ], 2) + Math.pow(nodes[2][1], 2)
+                    let yr = (ff - (bb * cc / aa)) / (ee - (Math.pow(bb, 2) / aa));
+                    let xr = (cc - (bb * yr)) / aa;
+                    if (this.completeDevice[i][0] == '08:c5:e1:02:43:ce') {
+                        mark = L.marker([yr, xr], {
+                            icon: deviceMarker
+                            //icon: aMarker
+                        }).addTo(map);
+                        foundDevice = true;
+                        this.countData();
+                        console.log("plotXY: [" + yr + "," + xr + "]");
+                        this.calculateMSE(xr, yr);
+                    } else {
+                        mark = L.marker([yr, xr]).addTo(map);
+                        //console.log("No subject device")
+                    }
+                    mark.bindPopup(yr + " " + xr + '<br><b>' + this.completeDevice[i][2] + ' ' +
+                        this.completeDevice[i + 1][2] + ' ' + this.completeDevice[i + 2][2] + '</b>')
+
+                    this.deleteMarker.push(mark)
+                    //console.log(this.deleteMarker.length)
+                    i = i + 2;
+                }
+                if (!foundDevice) {
+                    this.countData();
+                    console.log("No subject device")
+                }
+            }
+            //console.log(this.deleteMarker)
+        }, 2000);
+    </script>
+
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>
