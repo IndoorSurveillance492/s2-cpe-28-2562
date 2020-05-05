@@ -1,0 +1,1770 @@
+index.html:572 count = 1
+index.html:572 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 2
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 3
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 4
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 5
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 6
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 7
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 8
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 9
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 10
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 11
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 12
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 13
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 14
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 15
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 16
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 17
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 18
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 19
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 20
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 21
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 22
+index.html:613 plotXY: [123.74846804273159,32.17802463369516]
+index.html:302 crsDistance: 150.18347312846183
+index.html:303 meterDistance: 5.878022431642341
+index.html:304 ----
+index.html:357 count = 23
+index.html:613 plotXY: [-17.8,-0.09999999999999787]
+index.html:302 crsDistance: 14.721823935912287
+index.html:303 meterDistance: 0.5761966315425553
+index.html:304 ----
+index.html:357 count = 24
+index.html:613 plotXY: [-17.8,-0.09999999999999787]
+index.html:302 crsDistance: 14.721823935912287
+index.html:303 meterDistance: 0.5761966315425553
+index.html:304 ----
+index.html:357 count = 25
+index.html:613 plotXY: [-17.8,-0.09999999999999787]
+index.html:302 crsDistance: 14.721823935912287
+index.html:303 meterDistance: 0.5761966315425553
+index.html:304 ----
+index.html:357 count = 26
+index.html:613 plotXY: [-17.8,-0.09999999999999787]
+index.html:302 crsDistance: 14.721823935912287
+index.html:303 meterDistance: 0.5761966315425553
+index.html:304 ----
+index.html:357 count = 27
+index.html:613 plotXY: [-17.8,-0.09999999999999787]
+index.html:302 crsDistance: 14.721823935912287
+index.html:303 meterDistance: 0.5761966315425553
+index.html:304 ----
+index.html:357 count = 28
+index.html:613 plotXY: [-17.8,-0.09999999999999787]
+index.html:302 crsDistance: 14.721823935912287
+index.html:303 meterDistance: 0.5761966315425553
+index.html:304 ----
+index.html:357 count = 29
+index.html:613 plotXY: [-17.8,-0.09999999999999787]
+index.html:302 crsDistance: 14.721823935912287
+index.html:303 meterDistance: 0.5761966315425553
+index.html:304 ----
+index.html:357 count = 30
+index.html:613 plotXY: [-17.8,-0.09999999999999787]
+index.html:302 crsDistance: 14.721823935912287
+index.html:303 meterDistance: 0.5761966315425553
+index.html:304 ----
+index.html:357 count = 31
+index.html:613 plotXY: [-17.8,-0.09999999999999787]
+index.html:302 crsDistance: 14.721823935912287
+index.html:303 meterDistance: 0.5761966315425553
+index.html:304 ----
+index.html:357 count = 32
+index.html:613 plotXY: [-17.8,-0.09999999999999787]
+index.html:302 crsDistance: 14.721823935912287
+index.html:303 meterDistance: 0.5761966315425553
+index.html:304 ----
+index.html:357 count = 33
+index.html:613 plotXY: [-17.8,-0.09999999999999787]
+index.html:302 crsDistance: 14.721823935912287
+index.html:303 meterDistance: 0.5761966315425553
+index.html:304 ----
+index.html:357 count = 34
+index.html:613 plotXY: [-25.188894635092772,-6.276654109022859]
+index.html:302 crsDistance: 18.926676165204736
+index.html:303 meterDistance: 0.7407701043132969
+index.html:304 ----
+index.html:357 count = 35
+index.html:613 plotXY: [-25.188894635092772,-6.276654109022859]
+index.html:302 crsDistance: 18.926676165204736
+index.html:303 meterDistance: 0.7407701043132969
+index.html:304 ----
+index.html:357 count = 36
+index.html:613 plotXY: [-25.188894635092772,-6.276654109022859]
+index.html:302 crsDistance: 18.926676165204736
+index.html:303 meterDistance: 0.7407701043132969
+index.html:304 ----
+index.html:357 count = 37
+index.html:613 plotXY: [-25.188894635092772,-6.276654109022859]
+index.html:302 crsDistance: 18.926676165204736
+index.html:303 meterDistance: 0.7407701043132969
+index.html:304 ----
+index.html:357 count = 38
+index.html:613 plotXY: [-44.53951793361391,-22.45256577263037]
+index.html:302 crsDistance: 40.09683078699742
+index.html:303 meterDistance: 1.5693475846182945
+index.html:304 ----
+index.html:357 count = 39
+index.html:613 plotXY: [-44.53951793361391,-22.45256577263037]
+index.html:302 crsDistance: 40.09683078699742
+index.html:303 meterDistance: 1.5693475846182945
+index.html:304 ----
+index.html:357 count = 40
+index.html:613 plotXY: [-44.53951793361391,-22.45256577263037]
+index.html:302 crsDistance: 40.09683078699742
+index.html:303 meterDistance: 1.5693475846182945
+index.html:304 ----
+index.html:357 count = 41
+index.html:613 plotXY: [-44.53951793361391,-22.45256577263037]
+index.html:302 crsDistance: 40.09683078699742
+index.html:303 meterDistance: 1.5693475846182945
+index.html:304 ----
+index.html:357 count = 42
+index.html:613 plotXY: [-44.53951793361391,-22.45256577263037]
+index.html:302 crsDistance: 40.09683078699742
+index.html:303 meterDistance: 1.5693475846182945
+index.html:304 ----
+index.html:357 count = 43
+index.html:613 plotXY: [-44.53951793361391,-22.45256577263037]
+index.html:302 crsDistance: 40.09683078699742
+index.html:303 meterDistance: 1.5693475846182945
+index.html:304 ----
+index.html:357 count = 44
+index.html:613 plotXY: [-73.42579208135699,-22.45256577263037]
+index.html:302 crsDistance: 59.6806233970677
+index.html:303 meterDistance: 2.335836532174861
+index.html:304 ----
+index.html:357 count = 45
+index.html:613 plotXY: [-73.42579208135699,-0.09999999999999787]
+index.html:302 crsDistance: 49.92143012014763
+index.html:303 meterDistance: 1.9538720203580286
+index.html:304 ----
+index.html:357 count = 46
+index.html:613 plotXY: [-73.42579208135699,-0.09999999999999787]
+index.html:302 crsDistance: 49.92143012014763
+index.html:303 meterDistance: 1.9538720203580286
+index.html:304 ----
+index.html:357 count = 47
+index.html:613 plotXY: [-73.42579208135699,-0.09999999999999787]
+index.html:302 crsDistance: 49.92143012014763
+index.html:303 meterDistance: 1.9538720203580286
+index.html:304 ----
+index.html:357 count = 48
+index.html:613 plotXY: [-35.311946672018635,31.760792646868776]
+index.html:302 crsDistance: 21.63988024049865
+index.html:303 meterDistance: 0.8469620446379118
+index.html:304 ----
+index.html:357 count = 49
+index.html:613 plotXY: [-35.311946672018635,31.760792646868776]
+index.html:302 crsDistance: 21.63988024049865
+index.html:303 meterDistance: 0.8469620446379118
+index.html:304 ----
+index.html:357 count = 50
+index.html:613 plotXY: [-35.311946672018635,31.760792646868776]
+index.html:302 crsDistance: 21.63988024049865
+index.html:303 meterDistance: 0.8469620446379118
+index.html:304 ----
+index.html:357 count = 51
+index.html:613 plotXY: [-35.311946672018635,31.760792646868776]
+index.html:302 crsDistance: 21.63988024049865
+index.html:303 meterDistance: 0.8469620446379118
+index.html:304 ----
+index.html:357 count = 52
+index.html:613 plotXY: [-12.615184344913347,31.760792646868776]
+index.html:302 crsDistance: 22.860332355670614
+index.html:303 meterDistance: 0.8947292507111786
+index.html:304 ----
+index.html:357 count = 53
+index.html:613 plotXY: [-28.829052113504773,31.760792646868776]
+index.html:302 crsDistance: 19.459813437009807
+index.html:303 meterDistance: 0.7616365337381529
+index.html:304 ----
+index.html:357 count = 54
+index.html:613 plotXY: [-28.829052113504773,31.760792646868776]
+index.html:302 crsDistance: 19.459813437009807
+index.html:303 meterDistance: 0.7616365337381529
+index.html:304 ----
+index.html:357 count = 55
+index.html:613 plotXY: [-28.829052113504773,31.760792646868776]
+index.html:302 crsDistance: 19.459813437009807
+index.html:303 meterDistance: 0.7616365337381529
+index.html:304 ----
+index.html:357 count = 56
+index.html:613 plotXY: [-28.829052113504773,31.760792646868776]
+index.html:302 crsDistance: 19.459813437009807
+index.html:303 meterDistance: 0.7616365337381529
+index.html:304 ----
+index.html:357 count = 57
+index.html:613 plotXY: [-28.829052113504773,31.760792646868776]
+index.html:302 crsDistance: 19.459813437009807
+index.html:303 meterDistance: 0.7616365337381529
+index.html:304 ----
+index.html:357 count = 58
+index.html:613 plotXY: [-28.829052113504773,31.760792646868776]
+index.html:302 crsDistance: 19.459813437009807
+index.html:303 meterDistance: 0.7616365337381529
+index.html:304 ----
+index.html:357 count = 59
+index.html:613 plotXY: [-28.829052113504773,31.760792646868776]
+index.html:302 crsDistance: 19.459813437009807
+index.html:303 meterDistance: 0.7616365337381529
+index.html:304 ----
+index.html:357 count = 60
+index.html:613 plotXY: [-28.829052113504773,31.760792646868776]
+index.html:302 crsDistance: 19.459813437009807
+index.html:303 meterDistance: 0.7616365337381529
+index.html:304 ----
+index.html:357 count = 61
+index.html:613 plotXY: [-28.829052113504773,31.760792646868776]
+index.html:302 crsDistance: 19.459813437009807
+index.html:303 meterDistance: 0.7616365337381529
+index.html:304 ----
+index.html:357 count = 62
+index.html:613 plotXY: [-28.829052113504773,31.760792646868776]
+index.html:302 crsDistance: 19.459813437009807
+index.html:303 meterDistance: 0.7616365337381529
+index.html:304 ----
+index.html:357 count = 63
+index.html:613 plotXY: [87.18999217654444,31.760792646868776]
+index.html:302 crsDistance: 113.96377993758021
+index.html:303 meterDistance: 4.460421915365175
+index.html:304 ----
+index.html:357 count = 64
+index.html:613 plotXY: [87.18999217654444,31.760792646868776]
+index.html:302 crsDistance: 113.96377993758021
+index.html:303 meterDistance: 4.460421915365175
+index.html:304 ----
+index.html:357 count = 65
+index.html:613 plotXY: [87.18999217654444,31.760792646868776]
+index.html:302 crsDistance: 113.96377993758021
+index.html:303 meterDistance: 4.460421915365175
+index.html:304 ----
+index.html:357 count = 66
+index.html:613 plotXY: [87.18999217654444,31.760792646868776]
+index.html:302 crsDistance: 113.96377993758021
+index.html:303 meterDistance: 4.460421915365175
+index.html:304 ----
+index.html:357 count = 67
+index.html:613 plotXY: [87.18999217654444,31.760792646868776]
+index.html:302 crsDistance: 113.96377993758021
+index.html:303 meterDistance: 4.460421915365175
+index.html:304 ----
+index.html:357 count = 68
+index.html:613 plotXY: [87.18999217654444,22.958426382562262]
+index.html:302 crsDistance: 112.82191452264183
+index.html:303 meterDistance: 4.415730509692439
+index.html:304 ----
+index.html:357 count = 69
+index.html:613 plotXY: [87.18999217654444,22.958426382562262]
+index.html:302 crsDistance: 112.82191452264183
+index.html:303 meterDistance: 4.415730509692439
+index.html:304 ----
+index.html:357 count = 70
+index.html:613 plotXY: [87.18999217654444,22.958426382562262]
+index.html:302 crsDistance: 112.82191452264183
+index.html:303 meterDistance: 4.415730509692439
+index.html:304 ----
+index.html:357 count = 71
+index.html:613 plotXY: [87.18999217654444,22.958426382562262]
+index.html:302 crsDistance: 112.82191452264183
+index.html:303 meterDistance: 4.415730509692439
+index.html:304 ----
+index.html:357 count = 72
+index.html:613 plotXY: [68.42677006572721,7.273545399300998]
+index.html:302 crsDistance: 93.7410784843479
+index.html:303 meterDistance: 3.6689267508551033
+index.html:304 ----
+index.html:357 count = 73
+index.html:613 plotXY: [-8.979310176537128,7.273545399300998]
+index.html:302 crsDistance: 17.050542139078523
+index.html:303 meterDistance: 0.6673402011381027
+index.html:304 ----
+index.html:357 count = 74
+index.html:613 plotXY: [-8.979310176537128,7.273545399300998]
+index.html:302 crsDistance: 17.050542139078523
+index.html:303 meterDistance: 0.6673402011381027
+index.html:304 ----
+index.html:357 count = 75
+index.html:613 plotXY: [-8.979310176537128,7.273545399300998]
+index.html:302 crsDistance: 17.050542139078523
+index.html:303 meterDistance: 0.6673402011381027
+index.html:304 ----
+index.html:357 count = 76
+index.html:613 plotXY: [-8.979310176537128,7.273545399300998]
+index.html:302 crsDistance: 17.050542139078523
+index.html:303 meterDistance: 0.6673402011381027
+index.html:304 ----
+index.html:357 count = 77
+index.html:613 plotXY: [-8.979310176537128,7.273545399300998]
+index.html:302 crsDistance: 17.050542139078523
+index.html:303 meterDistance: 0.6673402011381027
+index.html:304 ----
+index.html:357 count = 78
+index.html:613 plotXY: [-8.979310176537128,7.273545399300998]
+index.html:302 crsDistance: 17.050542139078523
+index.html:303 meterDistance: 0.6673402011381027
+index.html:304 ----
+index.html:357 count = 79
+index.html:613 plotXY: [-8.979310176537128,16.07591166360751]
+index.html:302 crsDistance: 16.539395209316357
+index.html:303 meterDistance: 0.6473344504624797
+index.html:304 ----
+index.html:357 count = 80
+index.html:613 plotXY: [-8.979310176537128,-0.09999999999999787]
+index.html:302 crsDistance: 20.600418033698123
+index.html:303 meterDistance: 0.806278592316952
+index.html:304 ----
+index.html:357 count = 81
+index.html:613 plotXY: [-8.979310176537128,-0.09999999999999787]
+index.html:302 crsDistance: 20.600418033698123
+index.html:303 meterDistance: 0.806278592316952
+index.html:304 ----
+index.html:357 count = 82
+index.html:613 plotXY: [25.50444916719813,28.726267576403693]
+index.html:302 crsDistance: 53.15385958332407
+index.html:303 meterDistance: 2.080385893672175
+index.html:304 ----
+index.html:357 count = 83
+index.html:613 plotXY: [25.50444916719813,28.726267576403693]
+index.html:302 crsDistance: 53.15385958332407
+index.html:303 meterDistance: 2.080385893672175
+index.html:304 ----
+index.html:357 count = 84
+index.html:613 plotXY: [25.50444916719813,28.726267576403693]
+index.html:302 crsDistance: 53.15385958332407
+index.html:303 meterDistance: 2.080385893672175
+index.html:304 ----
+index.html:357 count = 85
+index.html:613 plotXY: [25.50444916719813,28.726267576403693]
+index.html:302 crsDistance: 53.15385958332407
+index.html:303 meterDistance: 2.080385893672175
+index.html:304 ----
+index.html:357 count = 86
+index.html:613 plotXY: [25.50444916719813,28.726267576403693]
+index.html:302 crsDistance: 53.15385958332407
+index.html:303 meterDistance: 2.080385893672175
+index.html:304 ----
+index.html:357 count = 87
+index.html:613 plotXY: [25.50444916719813,28.726267576403693]
+index.html:302 crsDistance: 53.15385958332407
+index.html:303 meterDistance: 2.080385893672175
+index.html:304 ----
+index.html:357 count = 88
+index.html:613 plotXY: [25.50444916719813,28.726267576403693]
+index.html:302 crsDistance: 53.15385958332407
+index.html:303 meterDistance: 2.080385893672175
+index.html:304 ----
+index.html:357 count = 89
+index.html:613 plotXY: [25.50444916719813,28.726267576403693]
+index.html:302 crsDistance: 53.15385958332407
+index.html:303 meterDistance: 2.080385893672175
+index.html:304 ----
+index.html:357 count = 90
+index.html:613 plotXY: [25.50444916719813,28.726267576403693]
+index.html:302 crsDistance: 53.15385958332407
+index.html:303 meterDistance: 2.080385893672175
+index.html:304 ----
+index.html:357 count = 91
+index.html:613 plotXY: [25.50444916719813,28.726267576403693]
+index.html:302 crsDistance: 53.15385958332407
+index.html:303 meterDistance: 2.080385893672175
+index.html:304 ----
+index.html:357 count = 92
+index.html:613 plotXY: [25.50444916719813,28.726267576403693]
+index.html:302 crsDistance: 53.15385958332407
+index.html:303 meterDistance: 2.080385893672175
+index.html:304 ----
+index.html:357 count = 93
+index.html:613 plotXY: [-14.161795003875554,-0.09999999999999787]
+index.html:302 crsDistance: 16.838141617671965
+index.html:303 meterDistance: 0.6590270691848127
+index.html:304 ----
+index.html:357 count = 94
+index.html:613 plotXY: [-14.161795003875554,-0.09999999999999787]
+index.html:302 crsDistance: 16.838141617671965
+index.html:303 meterDistance: 0.6590270691848127
+index.html:304 ----
+index.html:357 count = 95
+index.html:613 plotXY: [-14.161795003875554,-0.09999999999999787]
+index.html:302 crsDistance: 16.838141617671965
+index.html:303 meterDistance: 0.6590270691848127
+index.html:304 ----
+index.html:357 count = 96
+index.html:613 plotXY: [-14.161795003875554,-0.09999999999999787]
+index.html:302 crsDistance: 16.838141617671965
+index.html:303 meterDistance: 0.6590270691848127
+index.html:304 ----
+index.html:357 count = 97
+index.html:613 plotXY: [-14.161795003875554,-0.09999999999999787]
+index.html:302 crsDistance: 16.838141617671965
+index.html:303 meterDistance: 0.6590270691848127
+index.html:304 ----
+index.html:357 count = 98
+index.html:613 plotXY: [-14.161795003875554,-0.09999999999999787]
+index.html:302 crsDistance: 16.838141617671965
+index.html:303 meterDistance: 0.6590270691848127
+index.html:304 ----
+index.html:357 count = 99
+index.html:613 plotXY: [-14.161795003875554,-0.09999999999999787]
+index.html:302 crsDistance: 16.838141617671965
+index.html:303 meterDistance: 0.6590270691848127
+index.html:304 ----
+index.html:357 count = 100
+index.html:613 plotXY: [-14.161795003875554,-0.09999999999999787]
+index.html:302 crsDistance: 16.838141617671965
+index.html:303 meterDistance: 0.6590270691848127
+index.html:304 ----
+index.html:357 count = 101
+index.html:613 plotXY: [-14.161795003875554,-0.09999999999999787]
+index.html:302 crsDistance: 16.838141617671965
+index.html:303 meterDistance: 0.6590270691848127
+index.html:304 ----
+index.html:357 count = 102
+index.html:613 plotXY: [-14.161795003875554,-0.09999999999999787]
+index.html:302 crsDistance: 16.838141617671965
+index.html:303 meterDistance: 0.6590270691848127
+index.html:304 ----
+index.html:357 count = 103
+index.html:613 plotXY: [-15.661457255854964,44.9021792400112]
+index.html:302 crsDistance: 33.62179917839258
+index.html:303 meterDistance: 1.3159216899566566
+index.html:304 ----
+index.html:357 count = 104
+index.html:613 plotXY: [-15.661457255854964,44.9021792400112]
+index.html:302 crsDistance: 33.62179917839258
+index.html:303 meterDistance: 1.3159216899566566
+index.html:304 ----
+index.html:357 count = 105
+index.html:613 plotXY: [-15.661457255854964,44.9021792400112]
+index.html:302 crsDistance: 33.62179917839258
+index.html:303 meterDistance: 1.3159216899566566
+index.html:304 ----
+index.html:357 count = 106
+index.html:613 plotXY: [-15.661457255854964,44.9021792400112]
+index.html:302 crsDistance: 33.62179917839258
+index.html:303 meterDistance: 1.3159216899566566
+index.html:304 ----
+index.html:357 count = 107
+index.html:613 plotXY: [-15.661457255854964,44.9021792400112]
+index.html:302 crsDistance: 33.62179917839258
+index.html:303 meterDistance: 1.3159216899566566
+index.html:304 ----
+index.html:357 count = 108
+index.html:613 plotXY: [-15.661457255854964,44.9021792400112]
+index.html:302 crsDistance: 33.62179917839258
+index.html:303 meterDistance: 1.3159216899566566
+index.html:304 ----
+index.html:357 count = 109
+index.html:613 plotXY: [-15.661457255854964,44.9021792400112]
+index.html:302 crsDistance: 33.62179917839258
+index.html:303 meterDistance: 1.3159216899566566
+index.html:304 ----
+index.html:357 count = 110
+index.html:613 plotXY: [-15.661457255854964,44.9021792400112]
+index.html:302 crsDistance: 33.62179917839258
+index.html:303 meterDistance: 1.3159216899566566
+index.html:304 ----
+index.html:357 count = 111
+index.html:613 plotXY: [-15.661457255854964,44.9021792400112]
+index.html:302 crsDistance: 33.62179917839258
+index.html:303 meterDistance: 1.3159216899566566
+index.html:304 ----
+index.html:357 count = 112
+index.html:613 plotXY: [-15.661457255854964,44.9021792400112]
+index.html:302 crsDistance: 33.62179917839258
+index.html:303 meterDistance: 1.3159216899566566
+index.html:304 ----
+index.html:357 count = 113
+index.html:613 plotXY: [-15.661457255854964,44.9021792400112]
+index.html:302 crsDistance: 33.62179917839258
+index.html:303 meterDistance: 1.3159216899566566
+index.html:304 ----
+index.html:357 count = 114
+index.html:613 plotXY: [-15.661457255854964,44.9021792400112]
+index.html:302 crsDistance: 33.62179917839258
+index.html:303 meterDistance: 1.3159216899566566
+index.html:304 ----
+index.html:357 count = 115
+index.html:613 plotXY: [-15.661457255854964,44.9021792400112]
+index.html:302 crsDistance: 33.62179917839258
+index.html:303 meterDistance: 1.3159216899566566
+index.html:304 ----
+index.html:357 count = 116
+index.html:613 plotXY: [-15.661457255854964,44.9021792400112]
+index.html:302 crsDistance: 33.62179917839258
+index.html:303 meterDistance: 1.3159216899566566
+index.html:304 ----
+index.html:357 count = 117
+index.html:613 plotXY: [-15.661457255854964,44.9021792400112]
+index.html:302 crsDistance: 33.62179917839258
+index.html:303 meterDistance: 1.3159216899566566
+index.html:304 ----
+index.html:357 count = 118
+index.html:613 plotXY: [-15.661457255854964,100.80645817822253]
+index.html:302 crsDistance: 88.6666985558335
+index.html:303 meterDistance: 3.4703208828114875
+index.html:304 ----
+index.html:357 count = 119
+index.html:613 plotXY: [-15.661457255854964,100.80645817822253]
+index.html:302 crsDistance: 88.6666985558335
+index.html:303 meterDistance: 3.4703208828114875
+index.html:304 ----
+index.html:357 count = 120
+index.html:613 plotXY: [-15.661457255854964,100.80645817822253]
+index.html:302 crsDistance: 88.6666985558335
+index.html:303 meterDistance: 3.4703208828114875
+index.html:304 ----
+index.html:357 count = 121
+index.html:613 plotXY: [-15.661457255854964,100.80645817822253]
+index.html:302 crsDistance: 88.6666985558335
+index.html:303 meterDistance: 3.4703208828114875
+index.html:304 ----
+index.html:357 count = 122
+index.html:613 plotXY: [-15.661457255854964,100.80645817822253]
+index.html:302 crsDistance: 88.6666985558335
+index.html:303 meterDistance: 3.4703208828114875
+index.html:304 ----
+index.html:357 count = 123
+index.html:613 plotXY: [-15.661457255854964,100.80645817822253]
+index.html:302 crsDistance: 88.6666985558335
+index.html:303 meterDistance: 3.4703208828114875
+index.html:304 ----
+index.html:357 count = 124
+index.html:613 plotXY: [-15.661457255854964,100.80645817822253]
+index.html:302 crsDistance: 88.6666985558335
+index.html:303 meterDistance: 3.4703208828114875
+index.html:304 ----
+index.html:357 count = 125
+index.html:613 plotXY: [-15.661457255854964,100.80645817822253]
+index.html:302 crsDistance: 88.6666985558335
+index.html:303 meterDistance: 3.4703208828114875
+index.html:304 ----
+index.html:357 count = 126
+index.html:613 plotXY: [-15.661457255854964,100.80645817822253]
+index.html:302 crsDistance: 88.6666985558335
+index.html:303 meterDistance: 3.4703208828114875
+index.html:304 ----
+index.html:357 count = 127
+index.html:613 plotXY: [-15.661457255854964,100.80645817822253]
+index.html:302 crsDistance: 88.6666985558335
+index.html:303 meterDistance: 3.4703208828114875
+index.html:304 ----
+index.html:357 count = 128
+index.html:613 plotXY: [-15.661457255854964,100.80645817822253]
+index.html:302 crsDistance: 88.6666985558335
+index.html:303 meterDistance: 3.4703208828114875
+index.html:304 ----
+index.html:357 count = 129
+index.html:613 plotXY: [-15.661457255854964,22.549613467380833]
+index.html:302 crsDistance: 13.719499300845431
+index.html:303 meterDistance: 0.5369667045340677
+index.html:304 ----
+index.html:357 count = 130
+index.html:613 plotXY: [-15.661457255854964,22.549613467380833]
+index.html:302 crsDistance: 13.719499300845431
+index.html:303 meterDistance: 0.5369667045340677
+index.html:304 ----
+index.html:357 count = 131
+index.html:613 plotXY: [19.975792414177693,25.301547362203802]
+index.html:302 crsDistance: 46.87538167859358
+index.html:303 meterDistance: 1.8346529032717642
+index.html:304 ----
+index.html:357 count = 132
+index.html:613 plotXY: [19.975792414177693,25.301547362203802]
+index.html:302 crsDistance: 46.87538167859358
+index.html:303 meterDistance: 1.8346529032717642
+index.html:304 ----
+index.html:357 count = 133
+index.html:613 plotXY: [19.975792414177693,25.301547362203802]
+index.html:302 crsDistance: 46.87538167859358
+index.html:303 meterDistance: 1.8346529032717642
+index.html:304 ----
+index.html:357 count = 134
+index.html:613 plotXY: [19.975792414177693,25.301547362203802]
+index.html:302 crsDistance: 46.87538167859358
+index.html:303 meterDistance: 1.8346529032717642
+index.html:304 ----
+index.html:357 count = 135
+index.html:613 plotXY: [19.975792414177693,25.301547362203802]
+index.html:302 crsDistance: 46.87538167859358
+index.html:303 meterDistance: 1.8346529032717642
+index.html:304 ----
+index.html:357 count = 136
+index.html:613 plotXY: [19.975792414177693,25.301547362203802]
+index.html:302 crsDistance: 46.87538167859358
+index.html:303 meterDistance: 1.8346529032717642
+index.html:304 ----
+index.html:357 count = 137
+index.html:613 plotXY: [19.975792414177693,25.301547362203802]
+index.html:302 crsDistance: 46.87538167859358
+index.html:303 meterDistance: 1.8346529032717642
+index.html:304 ----
+index.html:357 count = 138
+index.html:613 plotXY: [19.975792414177693,25.301547362203802]
+index.html:302 crsDistance: 46.87538167859358
+index.html:303 meterDistance: 1.8346529032717642
+index.html:304 ----
+index.html:357 count = 139
+index.html:613 plotXY: [19.975792414177693,25.301547362203802]
+index.html:302 crsDistance: 46.87538167859358
+index.html:303 meterDistance: 1.8346529032717642
+index.html:304 ----
+index.html:357 count = 140
+index.html:613 plotXY: [19.975792414177693,25.301547362203802]
+index.html:302 crsDistance: 46.87538167859358
+index.html:303 meterDistance: 1.8346529032717642
+index.html:304 ----
+index.html:357 count = 141
+index.html:613 plotXY: [-17.8,16.08018607575812]
+index.html:302 crsDistance: 8.120084760291908
+index.html:303 meterDistance: 0.3178115366063369
+index.html:304 ----
+index.html:357 count = 142
+index.html:613 plotXY: [-17.8,16.08018607575812]
+index.html:302 crsDistance: 8.120084760291908
+index.html:303 meterDistance: 0.3178115366063369
+index.html:304 ----
+index.html:357 count = 143
+index.html:613 plotXY: [-17.8,16.08018607575812]
+index.html:302 crsDistance: 8.120084760291908
+index.html:303 meterDistance: 0.3178115366063369
+index.html:304 ----
+index.html:357 count = 144
+index.html:613 plotXY: [-17.8,16.08018607575812]
+index.html:302 crsDistance: 8.120084760291908
+index.html:303 meterDistance: 0.3178115366063369
+index.html:304 ----
+index.html:357 count = 145
+index.html:613 plotXY: [-17.8,16.08018607575812]
+index.html:302 crsDistance: 8.120084760291908
+index.html:303 meterDistance: 0.3178115366063369
+index.html:304 ----
+index.html:357 count = 146
+index.html:613 plotXY: [-17.8,38.43275184838849]
+index.html:302 crsDistance: 26.81268156816062
+index.html:303 meterDistance: 1.0494200222372063
+index.html:304 ----
+index.html:357 count = 147
+index.html:613 plotXY: [-17.8,38.43275184838849]
+index.html:302 crsDistance: 26.81268156816062
+index.html:303 meterDistance: 1.0494200222372063
+index.html:304 ----
+index.html:357 count = 148
+index.html:613 plotXY: [-17.8,38.43275184838849]
+index.html:302 crsDistance: 26.81268156816062
+index.html:303 meterDistance: 1.0494200222372063
+index.html:304 ----
+index.html:357 count = 149
+index.html:613 plotXY: [-17.8,38.43275184838849]
+index.html:302 crsDistance: 26.81268156816062
+index.html:303 meterDistance: 1.0494200222372063
+index.html:304 ----
+index.html:357 count = 150
+index.html:613 plotXY: [-17.8,38.43275184838849]
+index.html:302 crsDistance: 26.81268156816062
+index.html:303 meterDistance: 1.0494200222372063
+index.html:304 ----
+index.html:357 count = 151
+index.html:613 plotXY: [-17.8,38.43275184838849]
+index.html:302 crsDistance: 26.81268156816062
+index.html:303 meterDistance: 1.0494200222372063
+index.html:304 ----
+index.html:357 count = 152
+index.html:613 plotXY: [9.78391193428009,31.760792646868776]
+index.html:302 crsDistance: 39.828374017305
+index.html:303 meterDistance: 1.5588404703446184
+index.html:304 ----
+index.html:357 count = 153
+index.html:613 plotXY: [9.78391193428009,31.760792646868776]
+index.html:302 crsDistance: 39.828374017305
+index.html:303 meterDistance: 1.5588404703446184
+index.html:304 ----
+index.html:357 count = 154
+index.html:613 plotXY: [9.78391193428009,31.760792646868776]
+index.html:302 crsDistance: 39.828374017305
+index.html:303 meterDistance: 1.5588404703446184
+index.html:304 ----
+index.html:357 count = 155
+index.html:613 plotXY: [9.78391193428009,31.760792646868776]
+index.html:302 crsDistance: 39.828374017305
+index.html:303 meterDistance: 1.5588404703446184
+index.html:304 ----
+index.html:357 count = 156
+index.html:613 plotXY: [9.78391193428009,31.760792646868776]
+index.html:302 crsDistance: 39.828374017305
+index.html:303 meterDistance: 1.5588404703446184
+index.html:304 ----
+index.html:357 count = 157
+index.html:613 plotXY: [9.78391193428009,31.760792646868776]
+index.html:302 crsDistance: 39.828374017305
+index.html:303 meterDistance: 1.5588404703446184
+index.html:304 ----
+index.html:357 count = 158
+index.html:613 plotXY: [9.78391193428009,31.760792646868776]
+index.html:302 crsDistance: 39.828374017305
+index.html:303 meterDistance: 1.5588404703446184
+index.html:304 ----
+index.html:357 count = 159
+index.html:613 plotXY: [9.78391193428009,31.760792646868776]
+index.html:302 crsDistance: 39.828374017305
+index.html:303 meterDistance: 1.5588404703446184
+index.html:304 ----
+index.html:357 count = 160
+index.html:613 plotXY: [9.78391193428009,31.760792646868776]
+index.html:302 crsDistance: 39.828374017305
+index.html:303 meterDistance: 1.5588404703446184
+index.html:304 ----
+index.html:357 count = 161
+index.html:613 plotXY: [-28.829052113504773,31.760792646868776]
+index.html:302 crsDistance: 19.459813437009807
+index.html:303 meterDistance: 0.7616365337381529
+index.html:304 ----
+index.html:357 count = 162
+index.html:613 plotXY: [-15.247057624731765,43.11449116482746]
+index.html:302 crsDistance: 32.03672343525847
+index.html:303 meterDistance: 1.2538835004015059
+index.html:304 ----
+index.html:357 count = 163
+index.html:613 plotXY: [-15.247057624731765,43.11449116482746]
+index.html:302 crsDistance: 32.03672343525847
+index.html:303 meterDistance: 1.2538835004015059
+index.html:304 ----
+index.html:357 count = 164
+index.html:613 plotXY: [-15.247057624731765,43.11449116482746]
+index.html:302 crsDistance: 32.03672343525847
+index.html:303 meterDistance: 1.2538835004015059
+index.html:304 ----
+index.html:357 count = 165
+index.html:613 plotXY: [-15.247057624731765,43.11449116482746]
+index.html:302 crsDistance: 32.03672343525847
+index.html:303 meterDistance: 1.2538835004015059
+index.html:304 ----
+index.html:357 count = 166
+index.html:613 plotXY: [-15.247057624731765,43.11449116482746]
+index.html:302 crsDistance: 32.03672343525847
+index.html:303 meterDistance: 1.2538835004015059
+index.html:304 ----
+index.html:357 count = 167
+index.html:613 plotXY: [-15.247057624731765,43.11449116482746]
+index.html:302 crsDistance: 32.03672343525847
+index.html:303 meterDistance: 1.2538835004015059
+index.html:304 ----
+index.html:357 count = 168
+index.html:613 plotXY: [-15.247057624731765,43.11449116482746]
+index.html:302 crsDistance: 32.03672343525847
+index.html:303 meterDistance: 1.2538835004015059
+index.html:304 ----
+index.html:357 count = 169
+index.html:613 plotXY: [-15.247057624731765,66.16682607121987]
+index.html:302 crsDistance: 54.427172435030904
+index.html:303 meterDistance: 2.1302220131127556
+index.html:304 ----
+index.html:357 count = 170
+index.html:613 plotXY: [-15.247057624731765,66.16682607121987]
+index.html:302 crsDistance: 54.427172435030904
+index.html:303 meterDistance: 2.1302220131127556
+index.html:304 ----
+index.html:357 count = 171
+index.html:613 plotXY: [-15.247057624731765,66.16682607121987]
+index.html:302 crsDistance: 54.427172435030904
+index.html:303 meterDistance: 2.1302220131127556
+index.html:304 ----
+index.html:357 count = 172
+index.html:613 plotXY: [-15.247057624731765,66.16682607121987]
+index.html:302 crsDistance: 54.427172435030904
+index.html:303 meterDistance: 2.1302220131127556
+index.html:304 ----
+index.html:357 count = 173
+index.html:613 plotXY: [-15.247057624731765,66.16682607121987]
+index.html:302 crsDistance: 54.427172435030904
+index.html:303 meterDistance: 2.1302220131127556
+index.html:304 ----
+index.html:357 count = 174
+index.html:613 plotXY: [-15.247057624731765,66.16682607121987]
+index.html:302 crsDistance: 54.427172435030904
+index.html:303 meterDistance: 2.1302220131127556
+index.html:304 ----
+index.html:357 count = 175
+index.html:613 plotXY: [-15.247057624731765,66.16682607121987]
+index.html:302 crsDistance: 54.427172435030904
+index.html:303 meterDistance: 2.1302220131127556
+index.html:304 ----
+index.html:357 count = 176
+index.html:613 plotXY: [-15.247057624731765,66.16682607121987]
+index.html:302 crsDistance: 54.427172435030904
+index.html:303 meterDistance: 2.1302220131127556
+index.html:304 ----
+index.html:357 count = 177
+index.html:613 plotXY: [-15.247057624731765,66.16682607121987]
+index.html:302 crsDistance: 54.427172435030904
+index.html:303 meterDistance: 2.1302220131127556
+index.html:304 ----
+index.html:357 count = 178
+index.html:613 plotXY: [-15.247057624731765,66.16682607121987]
+index.html:302 crsDistance: 54.427172435030904
+index.html:303 meterDistance: 2.1302220131127556
+index.html:304 ----
+index.html:357 count = 179
+index.html:613 plotXY: [-15.247057624731765,66.16682607121987]
+index.html:302 crsDistance: 54.427172435030904
+index.html:303 meterDistance: 2.1302220131127556
+index.html:304 ----
+index.html:357 count = 180
+index.html:613 plotXY: [-15.247057624731765,66.16682607121987]
+index.html:302 crsDistance: 54.427172435030904
+index.html:303 meterDistance: 2.1302220131127556
+index.html:304 ----
+index.html:357 count = 181
+index.html:613 plotXY: [-15.247057624731765,43.11449116482746]
+index.html:302 crsDistance: 32.03672343525847
+index.html:303 meterDistance: 1.2538835004015059
+index.html:304 ----
+index.html:357 count = 182
+index.html:613 plotXY: [-15.247057624731765,43.11449116482746]
+index.html:302 crsDistance: 32.03672343525847
+index.html:303 meterDistance: 1.2538835004015059
+index.html:304 ----
+index.html:357 count = 183
+index.html:613 plotXY: [-15.247057624731765,43.11449116482746]
+index.html:302 crsDistance: 32.03672343525847
+index.html:303 meterDistance: 1.2538835004015059
+index.html:304 ----
+index.html:357 count = 184
+index.html:613 plotXY: [-15.247057624731765,43.11449116482746]
+index.html:302 crsDistance: 32.03672343525847
+index.html:303 meterDistance: 1.2538835004015059
+index.html:304 ----
+index.html:357 count = 185
+index.html:613 plotXY: [-15.247057624731765,43.11449116482746]
+index.html:302 crsDistance: 32.03672343525847
+index.html:303 meterDistance: 1.2538835004015059
+index.html:304 ----
+index.html:357 count = 186
+index.html:613 plotXY: [-13.108514880586728,44.9021792400112]
+index.html:302 crsDistance: 34.43023902492182
+index.html:303 meterDistance: 1.3475631712298166
+index.html:304 ----
+index.html:357 count = 187
+index.html:613 plotXY: [-13.108514880586728,44.9021792400112]
+index.html:302 crsDistance: 34.43023902492182
+index.html:303 meterDistance: 1.3475631712298166
+index.html:304 ----
+index.html:357 count = 188
+index.html:613 plotXY: [-13.108514880586728,44.9021792400112]
+index.html:302 crsDistance: 34.43023902492182
+index.html:303 meterDistance: 1.3475631712298166
+index.html:304 ----
+index.html:357 count = 189
+index.html:613 plotXY: [-13.108514880586728,44.9021792400112]
+index.html:302 crsDistance: 34.43023902492182
+index.html:303 meterDistance: 1.3475631712298166
+index.html:304 ----
+index.html:357 count = 190
+index.html:613 plotXY: [-15.661457255854964,147.62385134261223]
+index.html:302 crsDistance: 135.30766002159646
+index.html:303 meterDistance: 5.295798826676965
+index.html:304 ----
+index.html:357 count = 191
+index.html:613 plotXY: [-15.661457255854964,147.62385134261223]
+index.html:302 crsDistance: 135.30766002159646
+index.html:303 meterDistance: 5.295798826676965
+index.html:304 ----
+index.html:357 count = 192
+index.html:613 plotXY: [-15.661457255854964,147.62385134261223]
+index.html:302 crsDistance: 135.30766002159646
+index.html:303 meterDistance: 5.295798826676965
+index.html:304 ----
+index.html:357 count = 193
+index.html:613 plotXY: [-15.661457255854964,147.62385134261223]
+index.html:302 crsDistance: 135.30766002159646
+index.html:303 meterDistance: 5.295798826676965
+index.html:304 ----
+index.html:357 count = 194
+index.html:613 plotXY: [-15.661457255854964,147.62385134261223]
+index.html:302 crsDistance: 135.30766002159646
+index.html:303 meterDistance: 5.295798826676965
+index.html:304 ----
+index.html:357 count = 195
+index.html:613 plotXY: [-15.661457255854964,147.62385134261223]
+index.html:302 crsDistance: 135.30766002159646
+index.html:303 meterDistance: 5.295798826676965
+index.html:304 ----
+index.html:357 count = 196
+index.html:613 plotXY: [-50.14521659959022,-27.138579501219947]
+index.html:302 crsDistance: 46.982891644228744
+index.html:303 meterDistance: 1.8388607297154107
+index.html:304 ----
+index.html:357 count = 197
+index.html:613 plotXY: [-50.14521659959022,-27.138579501219947]
+index.html:302 crsDistance: 46.982891644228744
+index.html:303 meterDistance: 1.8388607297154107
+index.html:304 ----
+index.html:357 count = 198
+index.html:613 plotXY: [-23.400585350506432,-4.7817393164389665]
+index.html:302 crsDistance: 17.520304663593514
+index.html:303 meterDistance: 0.6857262099253821
+index.html:304 ----
+index.html:357 count = 199
+index.html:613 plotXY: [-23.400585350506432,-4.7817393164389665]
+index.html:302 crsDistance: 17.520304663593514
+index.html:303 meterDistance: 0.6857262099253821
+index.html:304 ----
+index.html:357 count = 200
+index.html:613 plotXY: [-23.400585350506432,-4.7817393164389665]
+index.html:302 crsDistance: 17.520304663593514
+index.html:303 meterDistance: 0.6857262099253821
+index.html:304 ----
+index.html:357 count = 201
+index.html:613 plotXY: [-23.400585350506432,-4.7817393164389665]
+index.html:302 crsDistance: 17.520304663593514
+index.html:303 meterDistance: 0.6857262099253821
+index.html:304 ----
+index.html:357 count = 202
+index.html:613 plotXY: [-17.8,-4.7817393164389665]
+index.html:302 crsDistance: 18.9218163926269
+index.html:303 meterDistance: 0.7405798979501722
+index.html:304 ----
+index.html:357 count = 203
+index.html:613 plotXY: [-17.8,-4.7817393164389665]
+index.html:302 crsDistance: 18.9218163926269
+index.html:303 meterDistance: 0.7405798979501722
+index.html:304 ----
+index.html:357 count = 204
+index.html:613 plotXY: [-17.8,-4.7817393164389665]
+index.html:302 crsDistance: 18.9218163926269
+index.html:303 meterDistance: 0.7405798979501722
+index.html:304 ----
+index.html:357 count = 205
+index.html:613 plotXY: [-17.8,-4.7817393164389665]
+index.html:302 crsDistance: 18.9218163926269
+index.html:303 meterDistance: 0.7405798979501722
+index.html:304 ----
+index.html:357 count = 206
+index.html:613 plotXY: [-17.8,-4.7817393164389665]
+index.html:302 crsDistance: 18.9218163926269
+index.html:303 meterDistance: 0.7405798979501722
+index.html:304 ----
+index.html:357 count = 207
+index.html:613 plotXY: [-17.8,48.94081108653271]
+index.html:302 crsDistance: 37.02961746114056
+index.html:303 meterDistance: 1.4493000963264406
+index.html:304 ----
+index.html:357 count = 208
+index.html:613 plotXY: [-14.752357024761809,51.488450136145886]
+index.html:302 crsDistance: 40.20875826580467
+index.html:303 meterDistance: 1.5737283078592825
+index.html:304 ----
+index.html:357 count = 209
+index.html:613 plotXY: [-14.752357024761809,51.488450136145886]
+index.html:302 crsDistance: 40.20875826580467
+index.html:303 meterDistance: 1.5737283078592825
+index.html:304 ----
+index.html:357 count = 210
+index.html:613 plotXY: [-14.752357024761809,51.488450136145886]
+index.html:302 crsDistance: 40.20875826580467
+index.html:303 meterDistance: 1.5737283078592825
+index.html:304 ----
+index.html:357 count = 211
+index.html:613 plotXY: [-14.752357024761809,51.488450136145886]
+index.html:302 crsDistance: 40.20875826580467
+index.html:303 meterDistance: 1.5737283078592825
+index.html:304 ----
+index.html:357 count = 212
+index.html:613 plotXY: [-11.11415202863736,51.488450136145886]
+index.html:302 crsDistance: 41.3002548928275
+index.html:303 meterDistance: 1.6164483324002936
+index.html:304 ----
+index.html:357 count = 213
+index.html:613 plotXY: [-11.11415202863736,51.488450136145886]
+index.html:302 crsDistance: 41.3002548928275
+index.html:303 meterDistance: 1.6164483324002936
+index.html:304 ----
+index.html:357 count = 214
+index.html:613 plotXY: [-11.11415202863736,51.488450136145886]
+index.html:302 crsDistance: 41.3002548928275
+index.html:303 meterDistance: 1.6164483324002936
+index.html:304 ----
+index.html:357 count = 215
+index.html:613 plotXY: [-11.11415202863736,51.488450136145886]
+index.html:302 crsDistance: 41.3002548928275
+index.html:303 meterDistance: 1.6164483324002936
+index.html:304 ----
+index.html:357 count = 216
+index.html:613 plotXY: [-11.11415202863736,51.488450136145886]
+index.html:302 crsDistance: 41.3002548928275
+index.html:303 meterDistance: 1.6164483324002936
+index.html:304 ----
+index.html:357 count = 217
+index.html:613 plotXY: [-11.11415202863736,51.488450136145886]
+index.html:302 crsDistance: 41.3002548928275
+index.html:303 meterDistance: 1.6164483324002936
+index.html:304 ----
+index.html:357 count = 218
+index.html:613 plotXY: [-11.11415202863736,51.488450136145886]
+index.html:302 crsDistance: 41.3002548928275
+index.html:303 meterDistance: 1.6164483324002936
+index.html:304 ----
+index.html:357 count = 219
+index.html:613 plotXY: [-11.11415202863736,51.488450136145886]
+index.html:302 crsDistance: 41.3002548928275
+index.html:303 meterDistance: 1.6164483324002936
+index.html:304 ----
+index.html:357 count = 220
+index.html:613 plotXY: [-11.11415202863736,51.488450136145886]
+index.html:302 crsDistance: 41.3002548928275
+index.html:303 meterDistance: 1.6164483324002936
+index.html:304 ----
+index.html:357 count = 221
+index.html:613 plotXY: [-11.11415202863736,51.488450136145886]
+index.html:302 crsDistance: 41.3002548928275
+index.html:303 meterDistance: 1.6164483324002936
+index.html:304 ----
+index.html:357 count = 222
+index.html:613 plotXY: [-12.199414649493571,53.622550402971676]
+index.html:302 crsDistance: 42.97355767389775
+index.html:303 meterDistance: 1.6819396349862132
+index.html:304 ----
+index.html:357 count = 223
+index.html:613 plotXY: [-12.199414649493571,53.622550402971676]
+index.html:302 crsDistance: 42.97355767389775
+index.html:303 meterDistance: 1.6819396349862132
+index.html:304 ----
+index.html:357 count = 224
+index.html:613 plotXY: [-12.199414649493571,53.622550402971676]
+index.html:302 crsDistance: 42.97355767389775
+index.html:303 meterDistance: 1.6819396349862132
+index.html:304 ----
+index.html:357 count = 225
+index.html:613 plotXY: [-12.199414649493571,53.622550402971676]
+index.html:302 crsDistance: 42.97355767389775
+index.html:303 meterDistance: 1.6819396349862132
+index.html:304 ----
+index.html:357 count = 226
+index.html:613 plotXY: [-12.199414649493571,53.622550402971676]
+index.html:302 crsDistance: 42.97355767389775
+index.html:303 meterDistance: 1.6819396349862132
+index.html:304 ----
+index.html:357 count = 227
+index.html:613 plotXY: [-12.199414649493571,53.622550402971676]
+index.html:302 crsDistance: 42.97355767389775
+index.html:303 meterDistance: 1.6819396349862132
+index.html:304 ----
+index.html:357 count = 228
+index.html:613 plotXY: [-12.199414649493571,53.622550402971676]
+index.html:302 crsDistance: 42.97355767389775
+index.html:303 meterDistance: 1.6819396349862132
+index.html:304 ----
+index.html:357 count = 229
+index.html:613 plotXY: [-12.199414649493571,53.622550402971676]
+index.html:302 crsDistance: 42.97355767389775
+index.html:303 meterDistance: 1.6819396349862132
+index.html:304 ----
+index.html:357 count = 230
+index.html:613 plotXY: [-12.199414649493571,53.622550402971676]
+index.html:302 crsDistance: 42.97355767389775
+index.html:303 meterDistance: 1.6819396349862132
+index.html:304 ----
+index.html:357 count = 231
+index.html:613 plotXY: [-12.199414649493571,53.622550402971676]
+index.html:302 crsDistance: 42.97355767389775
+index.html:303 meterDistance: 1.6819396349862132
+index.html:304 ----
+index.html:357 count = 232
+index.html:613 plotXY: [-12.199414649493571,53.622550402971676]
+index.html:302 crsDistance: 42.97355767389775
+index.html:303 meterDistance: 1.6819396349862132
+index.html:304 ----
+index.html:357 count = 233
+index.html:613 plotXY: [-21.43820499612445,45.89949909758493]
+index.html:302 crsDistance: 33.457150929079035
+index.html:303 meterDistance: 1.3094775314708036
+index.html:304 ----
+index.html:357 count = 234
+index.html:613 plotXY: [-21.43820499612445,138.11311196204173]
+index.html:302 crsDistance: 125.51830233575775
+index.html:303 meterDistance: 4.91265371177134
+index.html:304 ----
+index.html:357 count = 235
+index.html:613 plotXY: [-27.038790346630883,138.11311196204173]
+index.html:302 crsDistance: 125.4771784683032
+index.html:303 meterDistance: 4.911044167056876
+index.html:304 ----
+index.html:357 count = 236
+index.html:613 plotXY: [-27.038790346630883,138.11311196204173]
+index.html:302 crsDistance: 125.4771784683032
+index.html:303 meterDistance: 4.911044167056876
+index.html:304 ----
+index.html:357 count = 237
+index.html:613 plotXY: [-27.038790346630883,138.11311196204173]
+index.html:302 crsDistance: 125.4771784683032
+index.html:303 meterDistance: 4.911044167056876
+index.html:304 ----
+index.html:357 count = 238
+index.html:613 plotXY: [-27.038790346630883,138.11311196204173]
+index.html:302 crsDistance: 125.4771784683032
+index.html:303 meterDistance: 4.911044167056876
+index.html:304 ----
+index.html:357 count = 239
+index.html:613 plotXY: [-27.038790346630883,138.11311196204173]
+index.html:302 crsDistance: 125.4771784683032
+index.html:303 meterDistance: 4.911044167056876
+index.html:304 ----
+index.html:357 count = 240
+index.html:613 plotXY: [-27.038790346630883,138.11311196204173]
+index.html:302 crsDistance: 125.4771784683032
+index.html:303 meterDistance: 4.911044167056876
+index.html:304 ----
+index.html:357 count = 241
+index.html:613 plotXY: [-27.038790346630883,138.11311196204173]
+index.html:302 crsDistance: 125.4771784683032
+index.html:303 meterDistance: 4.911044167056876
+index.html:304 ----
+index.html:357 count = 242
+index.html:613 plotXY: [-27.038790346630883,138.11311196204173]
+index.html:302 crsDistance: 125.4771784683032
+index.html:303 meterDistance: 4.911044167056876
+index.html:304 ----
+index.html:357 count = 243
+index.html:613 plotXY: [-27.038790346630883,138.11311196204173]
+index.html:302 crsDistance: 125.4771784683032
+index.html:303 meterDistance: 4.911044167056876
+index.html:304 ----
+index.html:357 count = 244
+index.html:613 plotXY: [-27.038790346630883,138.11311196204173]
+index.html:302 crsDistance: 125.4771784683032
+index.html:303 meterDistance: 4.911044167056876
+index.html:304 ----
+index.html:357 count = 245
+index.html:613 plotXY: [5.30642625295934,138.11311196204173]
+index.html:302 crsDistance: 129.10923898709504
+index.html:303 meterDistance: 5.053199177577105
+index.html:304 ----
+index.html:357 count = 246
+index.html:613 plotXY: [5.30642625295934,138.11311196204173]
+index.html:302 crsDistance: 129.10923898709504
+index.html:303 meterDistance: 5.053199177577105
+index.html:304 ----
+index.html:357 count = 247
+index.html:613 plotXY: [5.30642625295934,138.11311196204173]
+index.html:302 crsDistance: 129.10923898709504
+index.html:303 meterDistance: 5.053199177577105
+index.html:304 ----
+index.html:357 count = 248
+index.html:613 plotXY: [5.30642625295934,138.11311196204173]
+index.html:302 crsDistance: 129.10923898709504
+index.html:303 meterDistance: 5.053199177577105
+index.html:304 ----
+index.html:357 count = 249
+index.html:613 plotXY: [5.30642625295934,138.11311196204173]
+index.html:302 crsDistance: 129.10923898709504
+index.html:303 meterDistance: 5.053199177577105
+index.html:304 ----
+index.html:357 count = 250
+index.html:613 plotXY: [5.30642625295934,138.11311196204173]
+index.html:302 crsDistance: 129.10923898709504
+index.html:303 meterDistance: 5.053199177577105
+index.html:304 ----
+index.html:357 count = 251
+index.html:613 plotXY: [5.30642625295934,138.11311196204173]
+index.html:302 crsDistance: 129.10923898709504
+index.html:303 meterDistance: 5.053199177577105
+index.html:304 ----
+index.html:357 count = 252
+index.html:613 plotXY: [5.30642625295934,138.11311196204173]
+index.html:302 crsDistance: 129.10923898709504
+index.html:303 meterDistance: 5.053199177577105
+index.html:304 ----
+index.html:357 count = 253
+index.html:613 plotXY: [5.30642625295934,138.11311196204173]
+index.html:302 crsDistance: 129.10923898709504
+index.html:303 meterDistance: 5.053199177577105
+index.html:304 ----
+index.html:357 count = 254
+index.html:613 plotXY: [5.30642625295934,138.11311196204173]
+index.html:302 crsDistance: 129.10923898709504
+index.html:303 meterDistance: 5.053199177577105
+index.html:304 ----
+index.html:357 count = 255
+index.html:613 plotXY: [5.30642625295934,91.29571879765203]
+index.html:302 crsDistance: 84.34069132883822
+index.html:303 meterDistance: 3.3010055314613784
+index.html:304 ----
+index.html:357 count = 256
+index.html:613 plotXY: [-17.8,91.29571879765203]
+index.html:302 crsDistance: 78.98935805030547
+index.html:303 meterDistance: 3.0915600019689027
+index.html:304 ----
+index.html:357 count = 257
+index.html:613 plotXY: [-17.8,91.29571879765203]
+index.html:302 crsDistance: 78.98935805030547
+index.html:303 meterDistance: 3.0915600019689027
+index.html:304 ----
+index.html:357 count = 258
+index.html:613 plotXY: [-17.8,91.29571879765203]
+index.html:302 crsDistance: 78.98935805030547
+index.html:303 meterDistance: 3.0915600019689027
+index.html:304 ----
+index.html:357 count = 259
+index.html:613 plotXY: [-17.8,91.29571879765203]
+index.html:302 crsDistance: 78.98935805030547
+index.html:303 meterDistance: 3.0915600019689027
+index.html:304 ----
+index.html:357 count = 260
+index.html:613 plotXY: [-72.82743817281188,45.296219700067105]
+index.html:302 crsDistance: 57.775083926065335
+index.html:303 meterDistance: 2.2612557309614614
+index.html:304 ----
+index.html:357 count = 261
+index.html:613 plotXY: [-40.90642625295935,71.98019060181882]
+index.html:302 crsDistance: 61.38421178599622
+index.html:303 meterDistance: 2.402513181447993
+index.html:304 ----
+index.html:357 count = 262
+index.html:613 plotXY: [-40.90642625295935,71.98019060181882]
+index.html:302 crsDistance: 61.38421178599622
+index.html:303 meterDistance: 2.402513181447993
+index.html:304 ----
+index.html:357 count = 263
+index.html:613 plotXY: [-40.90642625295935,71.98019060181882]
+index.html:302 crsDistance: 61.38421178599622
+index.html:303 meterDistance: 2.402513181447993
+index.html:304 ----
+index.html:357 count = 264
+index.html:613 plotXY: [-40.90642625295935,71.98019060181882]
+index.html:302 crsDistance: 61.38421178599622
+index.html:303 meterDistance: 2.402513181447993
+index.html:304 ----
+index.html:357 count = 265
+index.html:613 plotXY: [-40.90642625295935,71.98019060181882]
+index.html:302 crsDistance: 61.38421178599622
+index.html:303 meterDistance: 2.402513181447993
+index.html:304 ----
+index.html:357 count = 266
+index.html:613 plotXY: [-40.90642625295935,71.98019060181882]
+index.html:302 crsDistance: 61.38421178599622
+index.html:303 meterDistance: 2.402513181447993
+index.html:304 ----
+index.html:357 count = 267
+index.html:613 plotXY: [-40.90642625295935,71.98019060181882]
+index.html:302 crsDistance: 61.38421178599622
+index.html:303 meterDistance: 2.402513181447993
+index.html:304 ----
+index.html:357 count = 268
+index.html:613 plotXY: [-40.90642625295935,71.98019060181882]
+index.html:302 crsDistance: 61.38421178599622
+index.html:303 meterDistance: 2.402513181447993
+index.html:304 ----
+index.html:357 count = 269
+index.html:613 plotXY: [-40.90642625295935,71.98019060181882]
+index.html:302 crsDistance: 61.38421178599622
+index.html:303 meterDistance: 2.402513181447993
+index.html:304 ----
+index.html:357 count = 270
+index.html:613 plotXY: [-17.8,91.29571879765203]
+index.html:302 crsDistance: 78.98935805030547
+index.html:303 meterDistance: 3.0915600019689027
+index.html:304 ----
+index.html:357 count = 271
+index.html:613 plotXY: [-17.8,91.29571879765203]
+index.html:302 crsDistance: 78.98935805030547
+index.html:303 meterDistance: 3.0915600019689027
+index.html:304 ----
+index.html:357 count = 272
+index.html:613 plotXY: [-17.8,91.29571879765203]
+index.html:302 crsDistance: 78.98935805030547
+index.html:303 meterDistance: 3.0915600019689027
+index.html:304 ----
+index.html:357 count = 273
+index.html:613 plotXY: [-17.8,91.29571879765203]
+index.html:302 crsDistance: 78.98935805030547
+index.html:303 meterDistance: 3.0915600019689027
+index.html:304 ----
+index.html:357 count = 274
+index.html:613 plotXY: [-17.8,91.29571879765203]
+index.html:302 crsDistance: 78.98935805030547
+index.html:303 meterDistance: 3.0915600019689027
+index.html:304 ----
+index.html:357 count = 275
+index.html:613 plotXY: [-17.8,91.29571879765203]
+index.html:302 crsDistance: 78.98935805030547
+index.html:303 meterDistance: 3.0915600019689027
+index.html:304 ----
+index.html:357 count = 276
+index.html:613 plotXY: [-24.48584797136265,91.29571879765203]
+index.html:302 crsDistance: 78.6486081641441
+index.html:303 meterDistance: 3.078223411512489
+index.html:304 ----
+index.html:357 count = 277
+index.html:613 plotXY: [-24.48584797136265,91.29571879765203]
+index.html:302 crsDistance: 78.6486081641441
+index.html:303 meterDistance: 3.078223411512489
+index.html:304 ----
+index.html:357 count = 278
+index.html:613 plotXY: [-24.48584797136265,91.29571879765203]
+index.html:302 crsDistance: 78.6486081641441
+index.html:303 meterDistance: 3.078223411512489
+index.html:304 ----
+index.html:357 count = 279
+index.html:613 plotXY: [-24.48584797136265,58.443774765833126]
+index.html:302 crsDistance: 45.79873675399323
+index.html:303 meterDistance: 1.792514158669011
+index.html:304 ----
+index.html:357 count = 280
+index.html:613 plotXY: [-24.48584797136265,58.443774765833126]
+index.html:302 crsDistance: 45.79873675399323
+index.html:303 meterDistance: 1.792514158669011
+index.html:304 ----
+index.html:357 count = 281
+index.html:613 plotXY: [-24.48584797136265,58.443774765833126]
+index.html:302 crsDistance: 45.79873675399323
+index.html:303 meterDistance: 1.792514158669011
+index.html:304 ----
+index.html:357 count = 282
+index.html:613 plotXY: [-24.48584797136265,58.443774765833126]
+index.html:302 crsDistance: 45.79873675399323
+index.html:303 meterDistance: 1.792514158669011
+index.html:304 ----
+index.html:357 count = 283
+index.html:613 plotXY: [-24.48584797136265,58.443774765833126]
+index.html:302 crsDistance: 45.79873675399323
+index.html:303 meterDistance: 1.792514158669011
+index.html:304 ----
+index.html:357 count = 284
+index.html:613 plotXY: [-24.48584797136265,58.443774765833126]
+index.html:302 crsDistance: 45.79873675399323
+index.html:303 meterDistance: 1.792514158669011
+index.html:304 ----
+index.html:357 count = 285
+index.html:613 plotXY: [-24.48584797136265,58.443774765833126]
+index.html:302 crsDistance: 45.79873675399323
+index.html:303 meterDistance: 1.792514158669011
+index.html:304 ----
+index.html:357 count = 286
+index.html:613 plotXY: [-24.48584797136265,58.443774765833126]
+index.html:302 crsDistance: 45.79873675399323
+index.html:303 meterDistance: 1.792514158669011
+index.html:304 ----
+index.html:357 count = 287
+index.html:613 plotXY: [-24.48584797136265,58.443774765833126]
+index.html:302 crsDistance: 45.79873675399323
+index.html:303 meterDistance: 1.792514158669011
+index.html:304 ----
+index.html:357 count = 288
+index.html:613 plotXY: [-24.48584797136265,58.443774765833126]
+index.html:302 crsDistance: 45.79873675399323
+index.html:303 meterDistance: 1.792514158669011
+index.html:304 ----
+index.html:357 count = 289
+index.html:613 plotXY: [-24.48584797136265,58.443774765833126]
+index.html:302 crsDistance: 45.79873675399323
+index.html:303 meterDistance: 1.792514158669011
+index.html:304 ----
+index.html:357 count = 290
+index.html:613 plotXY: [-24.48584797136265,91.29571879765203]
+index.html:302 crsDistance: 78.6486081641441
+index.html:303 meterDistance: 3.078223411512489
+index.html:304 ----
+index.html:357 count = 291
+index.html:613 plotXY: [-24.48584797136265,91.29571879765203]
+index.html:302 crsDistance: 78.6486081641441
+index.html:303 meterDistance: 3.078223411512489
+index.html:304 ----
+index.html:357 count = 292
+index.html:613 plotXY: [-24.48584797136265,91.29571879765203]
+index.html:302 crsDistance: 78.6486081641441
+index.html:303 meterDistance: 3.078223411512489
+index.html:304 ----
+index.html:357 count = 293
+index.html:613 plotXY: [-24.48584797136265,91.29571879765203]
+index.html:302 crsDistance: 78.6486081641441
+index.html:303 meterDistance: 3.078223411512489
+index.html:304 ----
+index.html:357 count = 294
+index.html:613 plotXY: [-24.48584797136265,91.29571879765203]
+index.html:302 crsDistance: 78.6486081641441
+index.html:303 meterDistance: 3.078223411512489
+index.html:304 ----
+index.html:357 count = 295
+index.html:613 plotXY: [-24.48584797136265,91.29571879765203]
+index.html:302 crsDistance: 78.6486081641441
+index.html:303 meterDistance: 3.078223411512489
+index.html:304 ----
+index.html:357 count = 296
+index.html:613 plotXY: [-24.48584797136265,91.29571879765203]
+index.html:302 crsDistance: 78.6486081641441
+index.html:303 meterDistance: 3.078223411512489
+index.html:304 ----
+index.html:357 count = 297
+index.html:613 plotXY: [-24.48584797136265,91.29571879765203]
+index.html:302 crsDistance: 78.6486081641441
+index.html:303 meterDistance: 3.078223411512489
+index.html:304 ----
+index.html:357 count = 298
+index.html:613 plotXY: [-82.06622851944276,45.296219700067105]
+index.html:302 crsDistance: 65.6055981225085
+index.html:303 meterDistance: 2.5677337817028767
+index.html:304 ----
+index.html:357 count = 299
+index.html:613 plotXY: [-82.06622851944276,-46.099499097584925]
+index.html:302 crsDistance: 81.7913350454935
+index.html:303 meterDistance: 3.2012264205672603
+index.html:304 ----
+index.html:357 count = 300
+index.html:613 plotXY: [-82.06622851944276,-46.099499097584925]
+index.html:302 crsDistance: 81.7913350454935
+index.html:303 meterDistance: 3.2012264205672603
+index.html:304 ----
+index.html:357 count = 301
+index.html:613 plotXY: [-82.06622851944276,-46.099499097584925]
+index.html:302 crsDistance: 81.7913350454935
+index.html:303 meterDistance: 3.2012264205672603
+index.html:304 ----
+index.html:357 count = 302
+index.html:613 plotXY: [-82.06622851944276,-46.099499097584925]
+index.html:302 crsDistance: 81.7913350454935
+index.html:303 meterDistance: 3.2012264205672603
+index.html:304 ----
+index.html:357 count = 303
+index.html:613 plotXY: [-82.06622851944276,-46.099499097584925]
+index.html:302 crsDistance: 81.7913350454935
+index.html:303 meterDistance: 3.2012264205672603
+index.html:304 ----
+index.html:357 count = 304
+index.html:613 plotXY: [-82.06622851944276,-46.099499097584925]
+index.html:302 crsDistance: 81.7913350454935
+index.html:303 meterDistance: 3.2012264205672603
+index.html:304 ----
+index.html:357 count = 305
+index.html:613 plotXY: [-82.06622851944276,-46.099499097584925]
+index.html:302 crsDistance: 81.7913350454935
+index.html:303 meterDistance: 3.2012264205672603
+index.html:304 ----
+index.html:357 count = 306
+index.html:613 plotXY: [-82.06622851944276,-46.099499097584925]
+index.html:302 crsDistance: 81.7913350454935
+index.html:303 meterDistance: 3.2012264205672603
+index.html:304 ----
+index.html:357 count = 307
+index.html:613 plotXY: [-82.06622851944276,-46.099499097584925]
+index.html:302 crsDistance: 81.7913350454935
+index.html:303 meterDistance: 3.2012264205672603
+index.html:304 ----
+index.html:357 count = 308
+index.html:613 plotXY: [-82.06622851944276,-46.099499097584925]
+index.html:302 crsDistance: 81.7913350454935
+index.html:303 meterDistance: 3.2012264205672603
+index.html:304 ----
+index.html:357 count = 309
+index.html:613 plotXY: [-20.35294237526824,5.488951038560961]
+index.html:302 crsDistance: 8.624872476484445
+index.html:303 meterDistance: 0.33756839438295283
+index.html:304 ----
+index.html:357 count = 310
+index.html:613 plotXY: [-1.5861322314085753,-2.234100266825789]
+index.html:302 crsDistance: 27.87944910366697
+index.html:303 meterDistance: 1.091172176268766
+index.html:304 ----
+index.html:357 count = 311
+index.html:613 plotXY: [-1.5861322314085753,-2.234100266825789]
+index.html:302 crsDistance: 27.87944910366697
+index.html:303 meterDistance: 1.091172176268766
+index.html:304 ----
+index.html:357 count = 312
+index.html:613 plotXY: [-1.5861322314085753,-2.234100266825789]
+index.html:302 crsDistance: 27.87944910366697
+index.html:303 meterDistance: 1.091172176268766
+index.html:304 ----
+index.html:357 count = 313
+index.html:613 plotXY: [-22.491485119413277,-2.234100266825789]
+index.html:302 crsDistance: 15.121422301517683
+index.html:303 meterDistance: 0.591836489296191
+index.html:304 ----
+index.html:357 count = 314
+index.html:613 plotXY: [-22.491485119413277,-2.234100266825789]
+index.html:302 crsDistance: 15.121422301517683
+index.html:303 meterDistance: 0.591836489296191
+index.html:304 ----
+index.html:357 count = 315
+index.html:613 plotXY: [-22.491485119413277,-2.234100266825789]
+index.html:302 crsDistance: 15.121422301517683
+index.html:303 meterDistance: 0.591836489296191
+index.html:304 ----
+index.html:357 count = 316
+index.html:613 plotXY: [-22.491485119413277,-2.234100266825789]
+index.html:302 crsDistance: 15.121422301517683
+index.html:303 meterDistance: 0.591836489296191
+index.html:304 ----
+index.html:357 count = 317
+index.html:613 plotXY: [-22.491485119413277,-2.234100266825789]
+index.html:302 crsDistance: 15.121422301517683
+index.html:303 meterDistance: 0.591836489296191
+index.html:304 ----
+index.html:357 count = 318
+index.html:613 plotXY: [-22.491485119413277,-2.234100266825789]
+index.html:302 crsDistance: 15.121422301517683
+index.html:303 meterDistance: 0.591836489296191
+index.html:304 ----
+index.html:357 count = 319
+index.html:613 plotXY: [-16.008590560899414,3.1851944031818924]
+index.html:302 crsDistance: 13.16551706951226
+index.html:303 meterDistance: 0.5152844254212234
+index.html:304 ----
+index.html:357 count = 320
+index.html:613 plotXY: [-16.008590560899414,3.1851944031818924]
+index.html:302 crsDistance: 13.16551706951226
+index.html:303 meterDistance: 0.5152844254212234
+index.html:304 ----
+index.html:357 count = 321
+index.html:613 plotXY: [-0.2880533279813704,123.64496717447861]
+index.html:302 crsDistance: 113.74751192584091
+index.html:303 meterDistance: 4.451957413927237
+index.html:304 ----
+index.html:357 count = 322
+index.html:613 plotXY: [-0.2880533279813704,123.64496717447861]
+index.html:302 crsDistance: 113.74751192584091
+index.html:303 meterDistance: 4.451957413927237
+index.html:304 ----
+index.html:357 count = 323
+index.html:613 plotXY: [-0.2880533279813704,123.64496717447861]
+index.html:302 crsDistance: 113.74751192584091
+index.html:303 meterDistance: 4.451957413927237
+index.html:304 ----
+index.html:357 count = 324
+index.html:613 plotXY: [-0.2880533279813704,123.64496717447861]
+index.html:302 crsDistance: 113.74751192584091
+index.html:303 meterDistance: 4.451957413927237
+index.html:304 ----
+index.html:357 count = 325
+index.html:613 plotXY: [-0.2880533279813704,123.64496717447861]
+index.html:302 crsDistance: 113.74751192584091
+index.html:303 meterDistance: 4.451957413927237
+index.html:304 ----
+index.html:357 count = 326
+index.html:613 plotXY: [-0.2880533279813704,123.64496717447861]
+index.html:302 crsDistance: 113.74751192584091
+index.html:303 meterDistance: 4.451957413927237
+index.html:304 ----
+index.html:357 count = 327
+index.html:613 plotXY: [-0.2880533279813704,123.64496717447861]
+index.html:302 crsDistance: 113.74751192584091
+index.html:303 meterDistance: 4.451957413927237
+index.html:304 ----
+index.html:357 count = 328
+index.html:613 plotXY: [-0.2880533279813704,123.64496717447861]
+index.html:302 crsDistance: 113.74751192584091
+index.html:303 meterDistance: 4.451957413927237
+index.html:304 ----
+index.html:357 count = 329
+index.html:613 plotXY: [-0.2880533279813704,123.64496717447861]
+index.html:302 crsDistance: 113.74751192584091
+index.html:303 meterDistance: 4.451957413927237
+index.html:304 ----
+index.html:357 count = 330
+index.html:613 plotXY: [-0.2880533279813704,123.64496717447861]
+index.html:302 crsDistance: 113.74751192584091
+index.html:303 meterDistance: 4.451957413927237
+index.html:304 ----
+index.html:357 count = 331
+index.html:613 plotXY: [-0.2880533279813704,123.64496717447861]
+index.html:302 crsDistance: 113.74751192584091
+index.html:303 meterDistance: 4.451957413927237
+index.html:304 ----
+index.html:357 count = 332
+index.html:613 plotXY: [-13.870047816754376,123.64496717447861]
+index.html:302 crsDistance: 111.56767344694231
+index.html:303 meterDistance: 4.366640839410658
+index.html:304 ----
+index.html:357 count = 333
+index.html:613 plotXY: [-13.870047816754376,123.64496717447861]
+index.html:302 crsDistance: 111.56767344694231
+index.html:303 meterDistance: 4.366640839410658
+index.html:304 ----
+index.html:357 count = 334
+index.html:613 plotXY: [-13.870047816754376,123.64496717447861]
+index.html:302 crsDistance: 111.56767344694231
+index.html:303 meterDistance: 4.366640839410658
+index.html:304 ----
+index.html:357 count = 335
+index.html:613 plotXY: [-13.870047816754376,123.64496717447861]
+index.html:302 crsDistance: 111.56767344694231
+index.html:303 meterDistance: 4.366640839410658
+index.html:304 ----
+index.html:357 count = 336
+index.html:613 plotXY: [-13.870047816754376,123.64496717447861]
+index.html:302 crsDistance: 111.56767344694231
+index.html:303 meterDistance: 4.366640839410658
+index.html:304 ----
+index.html:357 count = 337
+index.html:613 plotXY: [-13.870047816754376,123.64496717447861]
+index.html:302 crsDistance: 111.56767344694231
+index.html:303 meterDistance: 4.366640839410658
+index.html:304 ----
+index.html:357 count = 338
+index.html:613 plotXY: [-13.870047816754376,123.64496717447861]
+index.html:302 crsDistance: 111.56767344694231
+index.html:303 meterDistance: 4.366640839410658
+index.html:304 ----
+index.html:357 count = 339
+index.html:613 plotXY: [-13.870047816754376,123.64496717447861]
+index.html:302 crsDistance: 111.56767344694231
+index.html:303 meterDistance: 4.366640839410658
+index.html:304 ----
+index.html:357 count = 340
+index.html:613 plotXY: [-13.870047816754376,123.64496717447861]
+index.html:302 crsDistance: 111.56767344694231
+index.html:303 meterDistance: 4.366640839410658
+index.html:304 ----
+index.html:357 count = 341
+index.html:613 plotXY: [-13.870047816754376,123.64496717447861]
+index.html:302 crsDistance: 111.56767344694231
+index.html:303 meterDistance: 4.366640839410658
+index.html:304 ----
+index.html:357 count = 342
+index.html:613 plotXY: [-20.35294237526824,118.22567250447094]
+index.html:302 crsDistance: 105.68505300078526
+index.html:303 meterDistance: 4.1364012916158615
+index.html:304 ----
+index.html:357 count = 343
+index.html:613 plotXY: [-14.752357024761809,118.22567250447094]
+index.html:302 crsDistance: 106.08742459439443
+index.html:303 meterDistance: 4.152149690582952
+index.html:304 ----
+index.html:357 count = 344
+index.html:613 plotXY: [-14.752357024761809,118.22567250447094]
+index.html:302 crsDistance: 106.08742459439443
+index.html:303 meterDistance: 4.152149690582952
+index.html:304 ----
+index.html:357 count = 345
+index.html:613 plotXY: [-14.752357024761809,118.22567250447094]
+index.html:302 crsDistance: 106.08742459439443
+index.html:303 meterDistance: 4.152149690582952
+index.html:304 ----
+index.html:357 count = 346
+index.html:613 plotXY: [-14.752357024761809,118.22567250447094]
+index.html:302 crsDistance: 106.08742459439443
+index.html:303 meterDistance: 4.152149690582952
+index.html:304 ----
+index.html:357 count = 347
+index.html:613 plotXY: [-14.752357024761809,118.22567250447094]
+index.html:302 crsDistance: 106.08742459439443
+index.html:303 meterDistance: 4.152149690582952
+index.html:304 ----
+index.html:357 count = 348
+index.html:613 plotXY: [-14.752357024761809,143.7020630006027]
+index.html:302 crsDistance: 131.46468061427737
+index.html:303 meterDistance: 5.1453886737486245
+index.html:304 ----
+index.html:357 count = 349
+index.html:613 plotXY: [-14.752357024761809,143.7020630006027]
+index.html:302 crsDistance: 131.46468061427737
+index.html:303 meterDistance: 5.1453886737486245
+index.html:304 ----
+index.html:357 count = 350
+index.html:613 plotXY: [-14.752357024761809,143.7020630006027]
+index.html:302 crsDistance: 131.46468061427737
+index.html:303 meterDistance: 5.1453886737486245
+index.html:304 ----
+index.html:357 count = 351
+index.html:613 plotXY: [-14.752357024761809,143.7020630006027]
+index.html:302 crsDistance: 131.46468061427737
+index.html:303 meterDistance: 5.1453886737486245
+index.html:304 ----
+index.html:357 count = 352
+index.html:613 plotXY: [-14.752357024761809,143.7020630006027]
+index.html:302 crsDistance: 131.46468061427737
+index.html:303 meterDistance: 5.1453886737486245
+index.html:304 ----
+index.html:357 count = 353
+index.html:613 plotXY: [-20.35294237526824,143.7020630006027]
+index.html:302 crsDistance: 131.14019604881423
+index.html:303 meterDistance: 5.132688690755939
+index.html:304 ----
+index.html:357 count = 354
+index.html:613 plotXY: [-20.35294237526824,143.7020630006027]
+index.html:302 crsDistance: 131.14019604881423
+index.html:303 meterDistance: 5.132688690755939
+index.html:304 ----
